@@ -13,7 +13,7 @@ def get_header(handle):
     header += "**백준 문제 풀이 저장소**\n\n"
     header += "![Github code size in bytes](https://img.shields.io/github/languages/code-size/b1nknet/boj?style=flat-square)\n\n"
     header += f'<img style="height:60px" alt="" src="assets/tier/{get_solved_int(handle, "tier")}.svg">\n\n'
-    header += f'<h3>{handle}</h3>\n\n*( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/ftw_0x00) )*\n\n'
+    header += f'<h3>{handle}</h3>\n\n*( [solved.ac](https://solved.ac/{handle}) | [BOJ](https://acmicpc.net/user/{handle}) )*\n\n'
     header += "rate: **" + str(get_solved_int(handle, "rating")) + "** | "
     header += "solved: **" + str(get_solved_int(handle, "solvedCount")) + "** | "
     header += "class: **" + str(get_solved_int(handle, "class")) + "**\n\n"

@@ -10,11 +10,11 @@
 
 <h3>ftw_0x00</h3>
 
-*( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/ftw_0x00) )*
+*( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
 rate: **1638** | solved: **880** | class: **4**
 
-업데이트: 25.06.12. 16:35:45 (KST)
+업데이트: 25.06.12. 16:38:57 (KST)
 
 </div><div align="center">
 
