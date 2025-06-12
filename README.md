@@ -8,9 +8,11 @@
 
 <img style="height:60px" alt="" src="assets/tier/16.svg">
 
-<div style="font-weight:bold;font-size:2em;">ftw_0x00</div>rate: 1638 | solved: 880 | class: 4
+**<div style="font-weight:bold;font-size:2em;">ftw_0x00</div>**
 
-업데이트: 25.06.12. 16:18:08 (KST)
+rate: 1638 | solved: 880 | class: 4
+
+업데이트: 25.06.12. 16:19:39 (KST)
 
 </div><div align="center">
 
