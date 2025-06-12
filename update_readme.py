@@ -26,9 +26,13 @@ def get_header(handle):
 dir_list = [
     "01xxx",
     "02xxx",
+    "06xxx",
+    "13xxx",
     "15xxx",
+    "27xxx",
     "29xxx",
-    "30xxx"
+    "30xxx",
+    "32xxx",
 ]
 
 ext = {
