@@ -12,7 +12,7 @@ def get_header(handle):
     header += "# BOJ\n\n"
     header += "**백준 문제 풀이 저장소**\n\n"
     header += "![Github code size in bytes](https://img.shields.io/github/languages/code-size/b1nknet/boj?style=flat-square)\n\n"
-    header += f'<img style="height:60" alt="" src="assets/tier/{get_solved_int(handle, "tier")}.svg">\n\n'
+    header += f'<img style="height:60px" alt="" src="assets/tier/{get_solved_int(handle, "tier")}.svg">\n\n'
     header += f'<div style="font-weight:bold;font-size:2em;">{handle}</div>'
     header += "rate: " + str(get_solved_int(handle, "rating")) + " | "
     header += "solved: " + str(get_solved_int(handle, "solvedCount")) + " | "

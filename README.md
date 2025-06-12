@@ -6,11 +6,11 @@
 
 ![Github code size in bytes](https://img.shields.io/github/languages/code-size/b1nknet/boj?style=flat-square)
 
-<img style="height:60" alt="" src="assets/tier/16.svg">
+<img style="height:60px" alt="" src="assets/tier/16.svg">
 
 <div style="font-weight:bold;font-size:2em;">ftw_0x00</div>rate: 1638 | solved: 880 | class: 4
 
-업데이트: 25.06.12. 16:15:52 (KST)
+업데이트: 25.06.12. 16:18:08 (KST)
 
 </div><div align="center">
 
