@@ -13,10 +13,10 @@ def get_header(handle):
     header += "**백준 문제 풀이 저장소**\n\n"
     header += "![Github code size in bytes](https://img.shields.io/github/languages/code-size/b1nknet/boj?style=flat-square)\n\n"
     header += f'<img style="height:60px" alt="" src="assets/tier/{get_solved_int(handle, "tier")}.svg">\n\n'
-    header += f'**<div style="font-weight:bold;font-size:2em;">{handle}</div>**\n\n'
-    header += "rate: " + str(get_solved_int(handle, "rating")) + " | "
-    header += "solved: " + str(get_solved_int(handle, "solvedCount")) + " | "
-    header += "class: " + str(get_solved_int(handle, "class")) + "\n\n"
+    header += f'<h3>{handle}</h3>\n\n*( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/ftw_0x00) )*\n\n'
+    header += "rate: **" + str(get_solved_int(handle, "rating")) + "** | "
+    header += "solved: **" + str(get_solved_int(handle, "solvedCount")) + "** | "
+    header += "class: **" + str(get_solved_int(handle, "class")) + "**\n\n"
     header += "업데이트: "
     header += datetime.now(timezone(timedelta(hours=9))).strftime("%y.%m.%d. %H:%M:%S")
     header += " (KST)\n\n"
@@ -24,8 +24,11 @@ def get_header(handle):
     return header
 
 dir_list = [
-    "1xxx",
-    "2xxx"
+    "01xxx",
+    "02xxx",
+    "15xxx",
+    "29xxx",
+    "30xxx"
 ]
 
 ext = {
@@ -57,7 +60,7 @@ def get_table():
 
         for filename in files:
             probId, fileExt = map(str, filename.split("."))
-            table += '|'+probId+'|' + get_problem_title(probId) + '| <img style="height:30px;" src="assets/tier/'+str(get_problem_level(probId))+'.svg"> |['+ext[fileExt]+'](./'+ s + '/' + filename +')|\n'
+            table += '| '+probId+' | ' + get_problem_title(probId) + ' | <img style="height:30px;" src="assets/tier/'+str(get_problem_level(probId))+'.svg"> | ['+ext[fileExt]+'](./'+ s + '/' + filename +') |\n'
 
     table += '\n</div>'
     return table
