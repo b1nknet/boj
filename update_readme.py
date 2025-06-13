@@ -68,7 +68,7 @@ def get_table():
     table += '|:---:|:---:|:---:|:---:|\n'
 
     for s in dir_list:
-        files = os.listdir(f"./{s}")
+        files = sorted(os.listdir(f"./{s}"))
 
         for filename in files:
             probId, fileExt = map(str, filename.split("."))
