@@ -24,23 +24,10 @@ def get_header(handle):
     return header
 
 dir_list = [
-    "01xxx",
-    "02xxx",
-    "03xxx",
-    "04xxx",
-    "05xxx",
-    "06xxx",
-    "07xxx",
-    "08xxx",
-    "09xxx",
-    "10xxx",
-    "13xxx",
-    "15xxx",
-    "27xxx",
-    "29xxx",
-    "30xxx",
-    "32xxx",
-    "33xxx"
+    "01xxx", "02xxx", "03xxx", "04xxx", "05xxx", "06xxx", "07xxx", "08xxx", "09xxx", "10xxx",
+    "11xxx", "12xxx", "13xxx", "14xxx", "15xxx",
+    "27xxx", "28xxx", "29xxx",
+    "30xxx", "32xxx", "33xxx"
 ]
 
 ext = {
