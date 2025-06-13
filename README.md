@@ -12,9 +12,9 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1638** | solved: **880** | class: **4**
+rate: **1638** | solved: **881** | class: **4**
 
-업데이트: 25.06.12. 18:07:05 (KST)
+업데이트: 25.06.13. 17:53:42 (KST)
 
 </div><div align="center">
 
@@ -24,6 +24,7 @@ rate: **1638** | solved: **880** | class: **4**
 | 1001 | A-B | <img style="height:30px;" src="assets/tier/1.svg"> | [Python](./01xxx/1001.py) |
 | 1002 | 터렛 | <img style="height:30px;" src="assets/tier/8.svg"> | [Python](./01xxx/1002.py) |
 | 2022 | 사다리 | <img style="height:30px;" src="assets/tier/12.svg"> | [Python](./02xxx/2022.py) |
+| 3047 | ABC | <img style="height:30px;" src="assets/tier/3.svg"> | [Python](./03xxx/3047.py) |
 | 3003 | 킹, 퀸, 룩, 비숍, 나이트, 폰 | <img style="height:30px;" src="assets/tier/1.svg"> | [Python](./03xxx/3003.py) |
 | 4101 | 크냐? | <img style="height:30px;" src="assets/tier/1.svg"> | [Python](./04xxx/4101.py) |
 | 5063 | TGN | <img style="height:30px;" src="assets/tier/3.svg"> | [Python](./05xxx/5063.py) |
