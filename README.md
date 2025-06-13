@@ -7,13 +7,13 @@
 ![Github code size in bytes](https://img.shields.io/github/languages/code-size/b1nknet/boj?style=flat-square)
 
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ftw_0x00)](https://solved.ac/ftw_0x00)
-![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=ftw_0x00&theme=warm)
+![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=ftw_0x00&theme=dark)
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
 rate: **1638** | solved: **881** | class: **4**
 
-업데이트: 25.06.13. 18:35:41 (KST)
+업데이트: 25.06.13. 19:02:43 (KST)
 
 </div><div align="center">
 
