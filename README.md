@@ -14,7 +14,7 @@
 
 rate: **1638** | solved: **881** | class: **4**
 
-업데이트: 25.06.13. 18:10:58 (KST)
+업데이트: 25.06.13. 18:23:24 (KST)
 
 </div><div align="center">
 
@@ -34,9 +34,13 @@ rate: **1638** | solved: **881** | class: **4**
 | 8370 | Plane | <img style="height:30px;" src="assets/tier/1.svg"> | [C](./08xxx/8370.c) |
 | 9012 | 괄호 | <img style="height:30px;" src="assets/tier/7.svg"> | [C](./09xxx/9012.c) |
 | 10026 | 적록색약 | <img style="height:30px;" src="assets/tier/11.svg"> | [Python](./10xxx/10026.py) |
+| 11000 | 강의실 배정 | <img style="height:30px;" src="assets/tier/11.svg"> | [Python](./11xxx/11000.py) |
+| 12015 | 가장 긴 증가하는 부분 수열 2 | <img style="height:30px;" src="assets/tier/14.svg"> | [C++](./12xxx/12015.cpp) |
 | 13419 | 탕수육 | <img style="height:30px;" src="assets/tier/4.svg"> | [Python](./13xxx/13419.py) |
+| 14003 | 가장 긴 증가하는 부분 수열 5 | <img style="height:30px;" src="assets/tier/16.svg"> | [C++](./14xxx/14003.cpp) |
 | 15235 | Olympiad Pizza | <img style="height:30px;" src="assets/tier/6.svg"> | [Python](./15xxx/15235.py) |
 | 27865 | 랜덤 게임? | <img style="height:30px;" src="assets/tier/5.svg"> | [C++](./27xxx/27865.cpp) |
+| 28064 | 이민희진 | <img style="height:30px;" src="assets/tier/6.svg"> | [C++](./28xxx/28064.cpp) |
 | 29986 | Amusement Park Adventure | <img style="height:30px;" src="assets/tier/2.svg"> | [C++](./29xxx/29986.cpp) |
 | 30319 | Advance to Taoyuan Regional | <img style="height:30px;" src="assets/tier/2.svg"> | [Python](./30xxx/30319.py) |
 | 32371 | 샷건 | <img style="height:30px;" src="assets/tier/5.svg"> | [C++](./32xxx/32371.cpp) |
