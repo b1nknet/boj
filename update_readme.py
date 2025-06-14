@@ -24,12 +24,7 @@ def get_header(handle):
     header += '</div>\n'
     return header
 
-dir_list = [
-    "01xxx", "02xxx", "03xxx", "04xxx", "05xxx", "06xxx", "07xxx", "08xxx", "09xxx", "10xxx",
-    "11xxx", "12xxx", "13xxx", "14xxx", "15xxx", "16xxx", "17xxx", "18xxx", "19xxx", "20xxx",
-    "21xxx", "22xxx", "23xxx", "24xxx", "25xxx", "26xxx", "27xxx", "28xxx", "29xxx", "30xxx",
-    "31xxx", "32xxx", "33xxx"
-]
+dir_list = [f"{format(i, '02')}xxx" for i in range(1, 34)]
 
 ext = {
     "c": "C",
