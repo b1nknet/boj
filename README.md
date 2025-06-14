@@ -11,11 +11,12 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1638** | solved: **881** | class: **4**
+rate: **1638** | solved: **882** | class: **4**
 
-업데이트: 25.06.13. 19:05:05 (KST)
+업데이트: 25.06.14. 13:41:35 (KST)
 
-</div><div align="center">
+</div>
+<div align="center">
 
 | 번호 | 제목 | 레벨 | 코드 |
 |:---:|:---:|:---:|:---:|
@@ -38,6 +39,7 @@ rate: **1638** | solved: **881** | class: **4**
 | 13419 | 탕수육 | <img style="height:30px;" src="assets/tier/4.svg"> | [Python](./13xxx/13419.py) |
 | 14003 | 가장 긴 증가하는 부분 수열 5 | <img style="height:30px;" src="assets/tier/16.svg"> | [C++](./14xxx/14003.cpp) |
 | 15235 | Olympiad Pizza | <img style="height:30px;" src="assets/tier/6.svg"> | [Python](./15xxx/15235.py) |
+| 27566 | Blueberry Waffle | <img style="height:30px;" src="assets/tier/3.svg"> | [C++](./27xxx/27566.cpp) |
 | 27865 | 랜덤 게임? | <img style="height:30px;" src="assets/tier/5.svg"> | [C++](./27xxx/27865.cpp) |
 | 28064 | 이민희진 | <img style="height:30px;" src="assets/tier/6.svg"> | [C++](./28xxx/28064.cpp) |
 | 29986 | Amusement Park Adventure | <img style="height:30px;" src="assets/tier/2.svg"> | [C++](./29xxx/29986.cpp) |

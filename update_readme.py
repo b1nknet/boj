@@ -21,7 +21,7 @@ def get_header(handle):
     header += "업데이트: "
     header += datetime.now(timezone(timedelta(hours=9))).strftime("%y.%m.%d. %H:%M:%S")
     header += " (KST)\n\n"
-    header += '</div>'
+    header += '</div>\n'
     return header
 
 dir_list = [
@@ -68,6 +68,16 @@ def get_table():
 # 메인 함수
 if __name__ == "__main__":
     # README.md 업데이트
-    os.remove("README.md")
-    with open("README.md", "w", encoding="utf-8") as f:
+    with open("README.md.tmp", "w", encoding="utf-8") as f:
         f.write(get_header("ftw_0x00") + get_table())
+    
+    # README.md.tmp와 README.md 비교
+    with open("README.md.tmp", "r", encoding="utf-8") as f:
+        tmp = f.readlines()
+        with open("README.md", "r", encoding="utf-8") as f:
+            readme = f.readlines()
+            if tmp[16:] != readme[16:]:
+                with open("README.md", "w", encoding="utf-8") as f:
+                    f.writelines(tmp)
+    
+    os.remove("README.md.tmp")
