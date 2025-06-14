@@ -13,7 +13,7 @@
 
 rate: **1638** | solved: **882** | class: **4**
 
-업데이트: 25.06.14. 22:30:16 (KST)
+업데이트: 25.06.14. 22:39:26 (KST)
 
 </div>
 <div align="center">
@@ -24,6 +24,7 @@ rate: **1638** | solved: **882** | class: **4**
 | 1001 | A-B | <img style="height:30px;" src="assets/tier/1.svg"> | [Python](./01xxx/1001.py) |
 | 1002 | 터렛 | <img style="height:30px;" src="assets/tier/8.svg"> | [Python](./01xxx/1002.py) |
 | 2022 | 사다리 | <img style="height:30px;" src="assets/tier/12.svg"> | [Python](./02xxx/2022.py) |
+| 2042 | 구간 합 구하기 | <img style="height:30px;" src="assets/tier/15.svg"> | [Java](./02xxx/2042.java) |
 | 3003 | 킹, 퀸, 룩, 비숍, 나이트, 폰 | <img style="height:30px;" src="assets/tier/1.svg"> | [Python](./03xxx/3003.py) |
 | 3047 | ABC | <img style="height:30px;" src="assets/tier/3.svg"> | [Python](./03xxx/3047.py) |
 | 4101 | 크냐? | <img style="height:30px;" src="assets/tier/1.svg"> | [Python](./04xxx/4101.py) |
