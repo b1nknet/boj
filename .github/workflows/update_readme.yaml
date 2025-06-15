@@ -21,7 +21,7 @@ jobs:
 
       - name: Run script
         run: |
-          python update_readme.py
+          python src/script/update_readme.py
           if [ $? -eq 123 ]; then
             exit 0
           fi

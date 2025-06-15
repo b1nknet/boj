@@ -51,11 +51,11 @@ def get_table():
     table += '|:---:|:---:|:---:|:---:|\n'
 
     for s in dir_list:
-        files = sorted(os.listdir(f"./{s}"))
+        files = sorted(os.listdir(f"../../{s}"))
 
         for filename in files:
             probId, fileExt = map(str, filename.split("."))
-            table += '| '+probId+' | ' + get_problem_title(probId) + ' | <img style="height:30px;" src="assets/tier/'+str(get_problem_level(probId))+'.svg"> | ['+ext[fileExt]+'](./'+ s + '/' + filename +') |\n'
+            table += '| '+probId+' | ' + get_problem_title(probId) + ' | <img style="height:30px;" src="src/tier/'+str(get_problem_level(probId))+'.svg"> | ['+ext[fileExt]+'](./'+ s + '/' + filename +') |\n'
 
     table += '\n</div>'
     return table
