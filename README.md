@@ -13,7 +13,7 @@
 
 rate: **1638** | solved: **884** | class: **4**
 
-업데이트: 25.06.15. 13:01:45 (KST)
+업데이트: 25.06.15. 14:29:08 (KST)
 
 </div>
 <div align="center">
@@ -23,6 +23,12 @@ rate: **1638** | solved: **884** | class: **4**
 | 1000 | A+B | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./01xxx/1000.py) |
 | 1001 | A-B | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./01xxx/1001.py) |
 | 1002 | 터렛 | <img style="height:30px;" src="src/tier/8.svg"> | [Python](./01xxx/1002.py) |
+| 1003 | 피보나치 함수 | <img style="height:30px;" src="src/tier/8.svg"> | [Python](./01xxx/1003.py) |
+| 1005 | ACM Craft | <img style="height:30px;" src="src/tier/13.svg"> | [Python](./01xxx/1005.py) |
+| 1007 | 벡터 매칭 | <img style="height:30px;" src="src/tier/14.svg"> | [Python](./01xxx/1007.py) |
+| 1008 | A/B | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./01xxx/1008.py) |
+| 1009 | 분산처리 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./01xxx/1009.py) |
+| 1010 | 다리 놓기 | <img style="height:30px;" src="src/tier/6.svg"> | [Python](./01xxx/1010.py) |
 | 2022 | 사다리 | <img style="height:30px;" src="src/tier/12.svg"> | [Python](./02xxx/2022.py) |
 | 2042 | 구간 합 구하기 | <img style="height:30px;" src="src/tier/15.svg"> | [Java](./02xxx/2042.java) |
 | 3003 | 킹, 퀸, 룩, 비숍, 나이트, 폰 | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./03xxx/3003.py) |
