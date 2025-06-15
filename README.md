@@ -11,9 +11,9 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1638** | solved: **882** | class: **4**
+rate: **1638** | solved: **884** | class: **4**
 
-업데이트: 25.06.14. 22:39:26 (KST)
+업데이트: 25.06.15. 12:46:43 (KST)
 
 </div>
 <div align="center">
@@ -60,7 +60,9 @@ rate: **1638** | solved: **882** | class: **4**
 | 26495 | Big Number | <img style="height:30px;" src="assets/tier/2.svg"> | [Python](./26xxx/26495.py) |
 | 27566 | Blueberry Waffle | <img style="height:30px;" src="assets/tier/3.svg"> | [C++](./27xxx/27566.cpp) |
 | 27865 | 랜덤 게임? | <img style="height:30px;" src="assets/tier/5.svg"> | [C++](./27xxx/27865.cpp) |
+| 27951 | 옷걸이 | <img style="height:30px;" src="assets/tier/5.svg"> | [C++](./27xxx/27951.cpp) |
 | 28064 | 이민희진 | <img style="height:30px;" src="assets/tier/6.svg"> | [C++](./28xxx/28064.cpp) |
+| 28464 | Potato | <img style="height:30px;" src="assets/tier/6.svg"> | [Python](./28xxx/28464.py) |
 | 29986 | Amusement Park Adventure | <img style="height:30px;" src="assets/tier/2.svg"> | [C++](./29xxx/29986.cpp) |
 | 30018 | 타슈 | <img style="height:30px;" src="assets/tier/3.svg"> | [Python](./30xxx/30018.py) |
 | 30319 | Advance to Taoyuan Regional | <img style="height:30px;" src="assets/tier/2.svg"> | [Python](./30xxx/30319.py) |
