@@ -11,9 +11,9 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1638** | solved: **884** | class: **4**
+rate: **1638** | solved: **885** | class: **4**
 
-업데이트: 25.06.15. 14:29:08 (KST)
+업데이트: 25.06.16. 19:56:09 (KST)
 
 </div>
 <div align="center">
@@ -55,6 +55,7 @@ rate: **1638** | solved: **884** | class: **4**
 | 16017 | Telemarketer or not? | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./16xxx/16017.py) |
 | 17009 | Winning Score | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./17xxx/17009.py) |
 | 18127 | 모형결정 | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./18xxx/18127.cpp) |
+| 18265 | MooBuzz | <img style="height:30px;" src="src/tier/6.svg"> | [C++](./18xxx/18265.cpp) |
 | 18330 | Petrol | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./18xxx/18330.py) |
 | 19602 | Dog Treats | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./19xxx/19602.py) |
 | 20104 | Timecard | <img style="height:30px;" src="src/tier/4.svg"> | [C++](./20xxx/20104.cpp) |
