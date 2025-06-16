@@ -3,11 +3,13 @@ from datetime import datetime, timezone, timedelta
 
 # solved.ac API로 사용자 정보를 가져옴
 def get_solved_int(handle, param):
+    print(f'Getting info for {param}...')
     response = requests.get(f"https://solved.ac/api/v3/user/show", params={"handle": handle})
     response.raise_for_status()
     return int(response.json()[param])
 
 def get_header(handle):
+    print('Generating header...')
     header = '<div align="center">\n\n'
     header += "# BOJ\n\n"
     header += "**백준 문제 풀이 저장소**\n\n"
@@ -55,6 +57,7 @@ def get_table():
 
         for filename in files:
             probId, fileExt = map(str, filename.split("."))
+            print(f'Getting info for {probId}...')
             table += '| '+probId+' | ' + get_problem_title(probId) + ' | <img style="height:30px;" src="src/tier/'+str(get_problem_level(probId))+'.svg"> | ['+ext[fileExt]+'](./'+ s + '/' + filename +') |\n'
 
     table += '\n</div>'
@@ -62,6 +65,7 @@ def get_table():
 
 # 메인 함수
 if __name__ == "__main__":
+    print('Generating README.md...')
     # README.md 업데이트
     with open("README.md.tmp", "w", encoding="utf-8") as f:
         f.write(get_header("ftw_0x00") + get_table())
@@ -74,5 +78,6 @@ if __name__ == "__main__":
             if tmp[16:] != readme[16:]:
                 with open("README.md", "w", encoding="utf-8") as f:
                     f.writelines(tmp)
+            else: print('File is up to date')
     
     os.remove("README.md.tmp")
