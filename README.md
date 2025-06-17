@@ -11,9 +11,9 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1638** | solved: **885** | class: **4**
+rate: **1638** | solved: **886** | class: **4**
 
-업데이트: 25.06.16. 19:56:09 (KST)
+업데이트: 25.06.17. 20:15:43 (KST)
 
 </div>
 <div align="center">
@@ -29,6 +29,7 @@ rate: **1638** | solved: **885** | class: **4**
 | 1008 | A/B | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./01xxx/1008.py) |
 | 1009 | 분산처리 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./01xxx/1009.py) |
 | 1010 | 다리 놓기 | <img style="height:30px;" src="src/tier/6.svg"> | [Python](./01xxx/1010.py) |
+| 1205 | 등수 구하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./01xxx/1205.py) |
 | 2022 | 사다리 | <img style="height:30px;" src="src/tier/12.svg"> | [Python](./02xxx/2022.py) |
 | 2042 | 구간 합 구하기 | <img style="height:30px;" src="src/tier/15.svg"> | [Java](./02xxx/2042.java) |
 | 3003 | 킹, 퀸, 룩, 비숍, 나이트, 폰 | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./03xxx/3003.py) |
