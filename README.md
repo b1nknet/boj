@@ -11,9 +11,9 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1638** | solved: **886** | class: **4**
+rate: **1638** | solved: **888** | class: **4**
 
-업데이트: 25.06.17. 20:15:43 (KST)
+업데이트: 25.06.18. 16:38:55 (KST)
 
 </div>
 <div align="center">
@@ -44,6 +44,7 @@ rate: **1638** | solved: **886** | class: **4**
 | 9012 | 괄호 | <img style="height:30px;" src="src/tier/7.svg"> | [C](./09xxx/9012.c) |
 | 9493 | 길면 기차, 기차는 빨라, 빠른 것은 비행기 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./09xxx/9493.py) |
 | 10026 | 적록색약 | <img style="height:30px;" src="src/tier/11.svg"> | [Python](./10xxx/10026.py) |
+| 10833 | 사과 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./10xxx/10833.py) |
 | 11000 | 강의실 배정 | <img style="height:30px;" src="src/tier/11.svg"> | [Python](./11xxx/11000.py) |
 | 11011 | Forged Answers | <img style="height:30px;" src="src/tier/16.svg"> | [C++](./11xxx/11011.cpp) |
 | 11295 | Exercising | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./11xxx/11295.cpp) |
@@ -52,6 +53,7 @@ rate: **1638** | solved: **886** | class: **4**
 | 12790 | Mini Fantasy War | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./12xxx/12790.py) |
 | 13419 | 탕수육 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./13xxx/13419.py) |
 | 14003 | 가장 긴 증가하는 부분 수열 5 | <img style="height:30px;" src="src/tier/16.svg"> | [C++](./14xxx/14003.cpp) |
+| 14182 | Tax | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./14xxx/14182.py) |
 | 15235 | Olympiad Pizza | <img style="height:30px;" src="src/tier/6.svg"> | [Python](./15xxx/15235.py) |
 | 16017 | Telemarketer or not? | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./16xxx/16017.py) |
 | 17009 | Winning Score | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./17xxx/17009.py) |
