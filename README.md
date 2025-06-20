@@ -11,9 +11,9 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1638** | solved: **890** | class: **4**
+rate: **1638** | solved: **892** | class: **4**
 
-업데이트: 25.06.19. 09:07:01 (KST)
+업데이트: 25.06.20. 13:46:58 (KST)
 
 </div>
 <div align="center">
@@ -52,6 +52,7 @@ rate: **1638** | solved: **890** | class: **4**
 | 11575 | Affine Cipher | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./11xxx/11575.py) |
 | 12015 | 가장 긴 증가하는 부분 수열 2 | <img style="height:30px;" src="src/tier/14.svg"> | [C++](./12xxx/12015.cpp) |
 | 12790 | Mini Fantasy War | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./12xxx/12790.py) |
+| 13399 | Rearranging a Sequence | <img style="height:30px;" src="src/tier/6.svg"> | [C++](./13xxx/13399.cpp) |
 | 13419 | 탕수육 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./13xxx/13419.py) |
 | 14003 | 가장 긴 증가하는 부분 수열 5 | <img style="height:30px;" src="src/tier/16.svg"> | [C++](./14xxx/14003.cpp) |
 | 14182 | Tax | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./14xxx/14182.py) |
@@ -75,6 +76,7 @@ rate: **1638** | solved: **890** | class: **4**
 | 27951 | 옷걸이 | <img style="height:30px;" src="src/tier/5.svg"> | [C++](./27xxx/27951.cpp) |
 | 28064 | 이민희진 | <img style="height:30px;" src="src/tier/6.svg"> | [C++](./28xxx/28064.cpp) |
 | 28464 | Potato | <img style="height:30px;" src="src/tier/6.svg"> | [Python](./28xxx/28464.py) |
+| 29812 | 아니 이게 왜 안 돼 | <img style="height:30px;" src="src/tier/6.svg"> | [C++](./29xxx/29812.cpp) |
 | 29986 | Amusement Park Adventure | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./29xxx/29986.cpp) |
 | 30018 | 타슈 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./30xxx/30018.py) |
 | 30319 | Advance to Taoyuan Regional | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./30xxx/30319.py) |
