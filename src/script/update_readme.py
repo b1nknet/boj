@@ -35,17 +35,11 @@ ext = {
     "py": "Python"
 }
 
-# solved.ac API로 문제의 제목을 가져옴
-def get_problem_title(problemId):
-    response = requests.get(f"https://solved.ac/api/v3/problem/show", params={"problemId": problemId})
+# solved.ac API로 문제의 정보를 가져옴
+def get_problem_info(probId):
+    response = requests.get(f"https://solved.ac/api/v3/problem/show", params={"problemId": probId})
     response.raise_for_status()
-    return response.json()["titles"][0]["title"]
-
-# solved.ac API로 문제의 난이도를 가져옴
-def get_problem_level(problemId):
-    response = requests.get(f"https://solved.ac/api/v3/problem/show", params={"problemId": problemId})
-    response.raise_for_status()
-    return response.json()["level"]
+    return response.json()["titles"][0]["title"], response.json()["level"]
 
 def get_table():
     table = '<div align="center">\n\n'
@@ -58,7 +52,8 @@ def get_table():
         for filename in files:
             probId, fileExt = map(str, filename.split("."))
             print(f'Getting info for {probId}...')
-            table += '| '+probId+' | ' + get_problem_title(probId) + ' | <img style="height:30px;" src="src/tier/'+str(get_problem_level(probId))+'.svg"> | ['+ext[fileExt]+'](./'+ s + '/' + filename +') |\n'
+            (probTitle, probLevel) = get_problem_info(probId)
+            table += '| '+probId+' | ' + probTitle + ' | <img style="height:30px;" src="src/tier/'+str(probLevel)+'.svg"> | ['+ext[fileExt]+'](./'+ s + '/' + filename +') |\n'
 
     table += '\n</div>'
     return table
