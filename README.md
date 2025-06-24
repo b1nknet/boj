@@ -11,9 +11,9 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1638** | solved: **894** | class: **4**
+rate: **1639** | solved: **897** | class: **4**
 
-업데이트: 25.06.21. 23:26:28 (KST)
+업데이트: 25.06.24. 17:56:30 (KST)
 
 </div>
 <div align="center">
@@ -30,8 +30,10 @@ rate: **1638** | solved: **894** | class: **4**
 | 1009 | 분산처리 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./01xxx/1009.py) |
 | 1010 | 다리 놓기 | <img style="height:30px;" src="src/tier/6.svg"> | [Python](./01xxx/1010.py) |
 | 1205 | 등수 구하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./01xxx/1205.py) |
+| 1806 | 부분합 | <img style="height:30px;" src="src/tier/12.svg"> | [C++](./01xxx/1806.cpp) |
 | 2022 | 사다리 | <img style="height:30px;" src="src/tier/12.svg"> | [Python](./02xxx/2022.py) |
 | 2042 | 구간 합 구하기 | <img style="height:30px;" src="src/tier/15.svg"> | [Java](./02xxx/2042.java) |
+| 2467 | 용액 | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./02xxx/2467.cpp) |
 | 3003 | 킹, 퀸, 룩, 비숍, 나이트, 폰 | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./03xxx/3003.py) |
 | 3047 | ABC | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./03xxx/3047.py) |
 | 4101 | 크냐? | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./04xxx/4101.py) |
@@ -58,6 +60,7 @@ rate: **1638** | solved: **894** | class: **4**
 | 14003 | 가장 긴 증가하는 부분 수열 5 | <img style="height:30px;" src="src/tier/16.svg"> | [C++](./14xxx/14003.cpp) |
 | 14182 | Tax | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./14xxx/14182.py) |
 | 14468 | 소가 길을 건너간 이유 2 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./14xxx/14468.py) |
+| 14626 | ISBN | <img style="height:30px;" src="src/tier/5.svg"> | [Python](./14xxx/14626.py) |
 | 15235 | Olympiad Pizza | <img style="height:30px;" src="src/tier/6.svg"> | [Python](./15xxx/15235.py) |
 | 15722 | 빙글빙글 스네일 | <img style="height:30px;" src="src/tier/5.svg"> | [Python](./15xxx/15722.py) |
 | 16017 | Telemarketer or not? | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./16xxx/16017.py) |
