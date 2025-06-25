@@ -13,7 +13,7 @@
 
 rate: **1640** | solved: **899** | class: **4**
 
-업데이트: 25.06.25. 20:06:15 (KST)
+업데이트: 25.06.25. 23:41:12 (KST)
 
 </div>
 <div align="center">
@@ -29,6 +29,11 @@ rate: **1640** | solved: **899** | class: **4**
 | 1008 | A/B | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./01xxx/1008.py) |
 | 1009 | 분산처리 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./01xxx/1009.py) |
 | 1010 | 다리 놓기 | <img style="height:30px;" src="src/tier/6.svg"> | [Python](./01xxx/1010.py) |
+| 1011 | Fly me to the Alpha Centauri | <img style="height:30px;" src="src/tier/11.svg"> | [Python](./01xxx/1011.py) |
+| 1012 | 유기농 배추 | <img style="height:30px;" src="src/tier/9.svg"> | [Python](./01xxx/1012.py) |
+| 1013 | Contact | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./01xxx/1013.cpp) |
+| 1016 | 제곱 ㄴㄴ 수 | <img style="height:30px;" src="src/tier/15.svg"> | [C++](./01xxx/1016.cpp) |
+| 1018 | 체스판 다시 칠하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./01xxx/1018.py) |
 | 1205 | 등수 구하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./01xxx/1205.py) |
 | 1806 | 부분합 | <img style="height:30px;" src="src/tier/12.svg"> | [C++](./01xxx/1806.cpp) |
 | 2022 | 사다리 | <img style="height:30px;" src="src/tier/12.svg"> | [Python](./02xxx/2022.py) |
