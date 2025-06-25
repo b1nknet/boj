@@ -43,16 +43,8 @@ def get_prob_list():
     return prob_list
 
 def get_table():
-    table = '<div align="center">\n\n'
-    table += '| 번호 | 제목 | 레벨 | 코드 |\n'
-    table += '|:---:|:---:|:---:|:---:|\n'
-    
-    ext = {
-        "c": "C",
-        "cpp": "C++",
-        "java": "Java",
-        "py": "Python"
-    }
+    table = '<div align="center">\n\n| 번호 | 제목 | 레벨 | 코드 |\n|:---:|:---:|:---:|:---:|\n'
+    ext = { "c": "C", "cpp": "C++", "java": "Java", "py": "Python" }
 
     for p in get_prob_list():
         table += '| ' + p['id'] + ' | ' + p['title'] + ' | <img style="height:30px;" src="src/tier/' + str(p['level']) + '.svg"> | [' + ext[p['ext']] + '](./'+ p['file_location'] +') |\n'
