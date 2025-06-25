@@ -12,13 +12,18 @@ def get_header(handle):
     solvedCount = str(user_data['solvedCount'])
     userClass = str(user_data['class'])
 
+    fileCount = 0
+    for s in [f"{format(i, '02')}xxx" for i in range(1, 34)]:
+        fileCount += len(os.listdir(f"./{s}"))
+
     header = '<div align="center">\n\n# BOJ\n\n**백준 문제 풀이 저장소**\n\n' \
         + "![Github code size in bytes](https://img.shields.io/github/languages/code-size/b1nknet/boj?style=flat-square)\n\n" \
         + f'[![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})\n' \
         + f'![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)\n\n' \
         + f'*( [solved.ac](https://solved.ac/{handle}) | [BOJ](https://acmicpc.net/user/{handle}) )*\n\n' \
         + f"rate: **{rating}** | solved: **{solvedCount}** | class: **{userClass}**\n\n" \
-        + "업데이트: " + datetime.now(timezone(timedelta(hours=9))).strftime("%y.%m.%d. %H:%M:%S") + " (KST)\n\n" \
+        + f"저장된 문제 수: {fileCount}\n\n" \
+        + f'업데이트: {datetime.now(timezone(timedelta(hours=9))).strftime("%y.%m.%d. %H:%M:%S")} (KST)\n\n' \
         + '</div>\n' 
     return header
 
