@@ -59,8 +59,8 @@ def get_prob_list():
     response.raise_for_status()
     for p in prob_list:
         idx = prob_list.index(p)
-        p['title'] = response[idx]['titles'][0]['title']
-        p['level'] = response[idx]['level']
+        p['title'] = response.json()[idx]['titles'][0]['title']
+        p['level'] = response.json()[idx]['level']
 
     return prob_list
 
