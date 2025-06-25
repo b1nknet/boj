@@ -45,7 +45,7 @@ def get_prob_list():
         
         for filename in files:
             probId, fileExt = map(str, filename.split('.'))
-            prob_list.append({"id": probId, "ext": fileExt})
+            prob_list.append({"id": probId, "ext": fileExt, "file_location": f'{s}/{filename}'})
 
     prob_id_list = [prob['id'] for prob in prob_list]
     
