@@ -13,7 +13,9 @@
 
 rate: **1640** | solved: **899** | class: **4**
 
-업데이트: 25.06.25. 23:41:12 (KST)
+저장된 문제 수: 86
+
+업데이트: 25.06.25. 23:51:03 (KST)
 
 </div>
 <div align="center">
@@ -34,6 +36,7 @@ rate: **1640** | solved: **899** | class: **4**
 | 1013 | Contact | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./01xxx/1013.cpp) |
 | 1016 | 제곱 ㄴㄴ 수 | <img style="height:30px;" src="src/tier/15.svg"> | [C++](./01xxx/1016.cpp) |
 | 1018 | 체스판 다시 칠하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./01xxx/1018.py) |
+| 1022 | 소용돌이 예쁘게 출력하기 | <img style="height:30px;" src="src/tier/13.svg"> | [C++](./01xxx/1022.cpp) |
 | 1205 | 등수 구하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./01xxx/1205.py) |
 | 1806 | 부분합 | <img style="height:30px;" src="src/tier/12.svg"> | [C++](./01xxx/1806.cpp) |
 | 2022 | 사다리 | <img style="height:30px;" src="src/tier/12.svg"> | [Python](./02xxx/2022.py) |
