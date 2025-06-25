@@ -4,7 +4,8 @@ from datetime import datetime, timezone, timedelta
 baseurl = 'https://solved.ac/api/v3'
 
 def get_header(handle):
-    response = requests.get(f"{baseurl}/user/show?handle={handle}").raise_for_status()
+    response = requests.get(f"{baseurl}/user/show?handle={handle}")
+    response.raise_for_status()
     user_data = response.json()
 
     rating = str(user_data['rating'])
@@ -43,7 +44,8 @@ def get_prob_list():
         if prob_id_list.index(id) != len(prob_id_list) - 1:
             fetchParam += "%2C"
 
-    response = requests.get(f"{baseurl}/problem/lookup?problemIds={fetchParam}").raise_for_status()
+    response = requests.get(f"{baseurl}/problem/lookup?problemIds={fetchParam}")
+    response.raise_for_status()
     probs_data = response.json()
     for p in prob_list:
         prob_data = probs_data[prob_list.index(p)]
