@@ -13,7 +13,7 @@
 
 rate: **1640** | solved: **898** | class: **4**
 
-업데이트: 25.06.25. 18:01:21 (KST)
+업데이트: 25.06.25. 19:58:35 (KST)
 
 </div>
 <div align="center">
@@ -34,7 +34,7 @@ rate: **1640** | solved: **898** | class: **4**
 | 2022 | 사다리 | <img style="height:30px;" src="src/tier/12.svg"> | [Python](./02xxx/2022.py) |
 | 2042 | 구간 합 구하기 | <img style="height:30px;" src="src/tier/15.svg"> | [Java](./02xxx/2042.java) |
 | 2467 | 용액 | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./02xxx/2467.cpp) |
-| 3003 | 킹, 퀸, 룩, 비숍, 나이트, 폰 | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./03xxx/3003.py) |
+| 3003 | BIJELE | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./03xxx/3003.py) |
 | 3047 | ABC | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./03xxx/3047.py) |
 | 4101 | 크냐? | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./04xxx/4101.py) |
 | 4900 | 7 더하기 | <img style="height:30px;" src="src/tier/8.svg"> | [Python](./04xxx/4900.py) |
@@ -83,7 +83,7 @@ rate: **1640** | solved: **898** | class: **4**
 | 28064 | 이민희진 | <img style="height:30px;" src="src/tier/6.svg"> | [C++](./28xxx/28064.cpp) |
 | 28464 | Potato | <img style="height:30px;" src="src/tier/6.svg"> | [Python](./28xxx/28464.py) |
 | 29812 | 아니 이게 왜 안 돼 | <img style="height:30px;" src="src/tier/6.svg"> | [C++](./29xxx/29812.cpp) |
-| 29986 | Amusement Park Adventure | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./29xxx/29986.cpp) |
+| 29986 | Altura Mínima | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./29xxx/29986.cpp) |
 | 30018 | 타슈 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./30xxx/30018.py) |
 | 30319 | Advance to Taoyuan Regional | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./30xxx/30319.py) |
 | 31048 | Last Factorial Digit | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./31xxx/31048.py) |
