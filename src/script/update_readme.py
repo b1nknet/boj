@@ -3,15 +3,15 @@ from datetime import datetime, timezone, timedelta
 
 baseurl = 'https://solved.ac/api/v3'
 
-# solved.ac API로 사용자 정보를 가져옴
-def get_solved_int(handle, param):
-    print(f'Getting info for {param}...')
+def get_header(handle):
     response = requests.get(f"{baseurl}/user/show", params={"handle": handle})
     response.raise_for_status()
-    return int(response.json()[param])
+    user_data = response.json()
 
-def get_header(handle):
-    print('Generating header...')
+    rating = user_data['rating']
+    solvedCount = user_data['rating']
+    userClass = user_data['rating']
+
     header = '<div align="center">\n\n'
     header += "# BOJ\n\n"
     header += "**백준 문제 풀이 저장소**\n\n"
@@ -19,26 +19,25 @@ def get_header(handle):
     header += f'[![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})\n'
     header += f'![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)\n\n'
     header += f'*( [solved.ac](https://solved.ac/{handle}) | [BOJ](https://acmicpc.net/user/{handle}) )*\n\n'
-    header += "rate: **" + str(get_solved_int(handle, "rating")) + "** | "
-    header += "solved: **" + str(get_solved_int(handle, "solvedCount")) + "** | "
-    header += "class: **" + str(get_solved_int(handle, "class")) + "**\n\n"
+    header += "rate: **" + str(rating) + "** | "
+    header += "solved: **" + str(solvedCount) + "** | "
+    header += "class: **" + str(userClass) + "**\n\n"
     header += "업데이트: "
     header += datetime.now(timezone(timedelta(hours=9))).strftime("%y.%m.%d. %H:%M:%S")
     header += " (KST)\n\n"
     header += '</div>\n'
     return header
 
-dir_list = [f"{format(i, '02')}xxx" for i in range(1, 34)]
-
-ext = {
-    "c": "C",
-    "cpp": "C++",
-    "java": "Java",
-    "py": "Python"
-}
-
 def get_prob_list():
     prob_list = []
+
+    dir_list = [f"{format(i, '02')}xxx" for i in range(1, 34)]
+    ext = {
+        "c": "C",
+        "cpp": "C++",
+        "java": "Java",
+        "py": "Python"
+    }
 
     for s in dir_list:
         files = sorted(os.listdir(f"./{s}"))
@@ -72,14 +71,13 @@ def get_table():
     prob_list = get_prob_list()
 
     for p in prob_list:
-        table += '| '+p['id']+' | ' + p['title'] + ' | <img style="height:30px;" src="src/tier/'+str(p['level'])+'.svg"> | ['+ext[p['ext']]+'](./'+ p['file_location'] +') |\n'
+        table += '| ' + p['id'] + ' | ' + p['title'] + ' | <img style="height:30px;" src="src/tier/' + str(p['level']) + '.svg"> | [' + ext[p['ext']] + '](./'+ p['file_location'] +') |\n'
 
     table += '\n</div>'
     return table
 
 # 메인 함수
 if __name__ == "__main__":
-    print('Generating README.md...')
     # README.md 업데이트
     with open("README.md.tmp", "w", encoding="utf-8") as f:
         f.write(get_header("ftw_0x00") + get_table())
@@ -92,6 +90,5 @@ if __name__ == "__main__":
             if tmp[16:] != readme[16:]:
                 with open("README.md", "w", encoding="utf-8") as f:
                     f.writelines(tmp)
-            else: print('File is up to date')
     
     os.remove("README.md.tmp")
