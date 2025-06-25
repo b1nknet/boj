@@ -11,9 +11,9 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1639** | solved: **897** | class: **4**
+rate: **1640** | solved: **898** | class: **4**
 
-업데이트: 25.06.24. 18:04:53 (KST)
+업데이트: 25.06.25. 18:01:21 (KST)
 
 </div>
 <div align="center">
@@ -75,6 +75,7 @@ rate: **1639** | solved: **897** | class: **4**
 | 23234 | The World Responds | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./23xxx/23234.py) |
 | 24724 | 현대모비스와 함께하는 부품 관리 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./24xxx/24724.py) |
 | 25083 | 새싹 | <img style="height:30px;" src="src/tier/1.svg"> | [C](./25xxx/25083.c) |
+| 26332 | Buying in Bulk | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./26xxx/26332.cpp) |
 | 26495 | Big Number | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./26xxx/26495.py) |
 | 27566 | Blueberry Waffle | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./27xxx/27566.cpp) |
 | 27865 | 랜덤 게임? | <img style="height:30px;" src="src/tier/5.svg"> | [C++](./27xxx/27865.cpp) |
