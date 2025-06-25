@@ -32,12 +32,6 @@ def get_prob_list():
     prob_list = []
 
     dir_list = [f"{format(i, '02')}xxx" for i in range(1, 34)]
-    ext = {
-        "c": "C",
-        "cpp": "C++",
-        "java": "Java",
-        "py": "Python"
-    }
 
     for s in dir_list:
         files = sorted(os.listdir(f"./{s}"))
@@ -67,6 +61,13 @@ def get_table():
     table = '<div align="center">\n\n'
     table += '| 번호 | 제목 | 레벨 | 코드 |\n'
     table += '|:---:|:---:|:---:|:---:|\n'
+    
+    ext = {
+        "c": "C",
+        "cpp": "C++",
+        "java": "Java",
+        "py": "Python"
+    }
 
     prob_list = get_prob_list()
 
