@@ -22,7 +22,7 @@ def get_header(handle):
         + f'![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)\n\n' \
         + f'*( [solved.ac](https://solved.ac/{handle}) | [BOJ](https://acmicpc.net/user/{handle}) )*\n\n' \
         + f"rate: **{rating}** | solved: **{solvedCount}** | class: **{userClass}**\n\n" \
-        + f"저장된 문제 수: {fileCount}\n\n" \
+        + f"저장된 문제 수: **{fileCount}**\n\n" \
         + f'업데이트: {datetime.now(timezone(timedelta(hours=9))).strftime("%y.%m.%d. %H:%M:%S")} (KST)\n\n' \
         + '</div>\n' 
     return header
@@ -68,7 +68,7 @@ if __name__ == "__main__":
         tmp = f.readlines()
         with open("README.md", "r", encoding="utf-8") as f:
             readme = f.readlines()
-            if tmp[16:] != readme[16:]:
+            if tmp[17:] != readme[17:]:
                 with open("README.md", "w", encoding="utf-8") as f:
                     f.writelines(tmp)
     
