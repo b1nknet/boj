@@ -1,10 +1,12 @@
 import requests, os
 from datetime import datetime, timezone, timedelta
 
+baseurl = 'https://solved.ac/api/v3'
+
 # solved.ac API로 사용자 정보를 가져옴
 def get_solved_int(handle, param):
     print(f'Getting info for {param}...')
-    response = requests.get(f"https://solved.ac/api/v3/user/show", params={"handle": handle})
+    response = requests.get(f"{baseurl}/user/show", params={"handle": handle})
     response.raise_for_status()
     return int(response.json()[param])
 
@@ -35,25 +37,42 @@ ext = {
     "py": "Python"
 }
 
-# solved.ac API로 문제의 정보를 가져옴
-def get_problem_info(probId):
-    response = requests.get(f"https://solved.ac/api/v3/problem/show", params={"problemId": probId})
+def get_prob_list():
+    prob_list = []
+
+    for s in dir_list:
+        files = sorted(os.listdir(f"./{s}"))
+        
+        for filename in files:
+            probId, fileExt = map(str, filename.split('.'))
+            prob_list.append({"id": probId, "ext": fileExt})
+
+    prob_id_list = [prob['id'] for prob in prob_list]
+    
+    fetchParam = ''
+    for id in prob_id_list:
+        fetchParam += id
+        if prob_id_list.index(id) != len(prob_id_list) - 1:
+            fetchParam += "%2C"
+
+    response = requests.get(f"{baseurl}/problem/lookup?problemIds={fetchParam}")
     response.raise_for_status()
-    return response.json()["titles"][0]["title"], response.json()["level"]
+    for p in prob_list:
+        idx = prob_list.index(p)
+        p['title'] = response[idx]['titles'][0]['title']
+        p['level'] = response[idx]['level']
+
+    return prob_list
 
 def get_table():
     table = '<div align="center">\n\n'
     table += '| 번호 | 제목 | 레벨 | 코드 |\n'
     table += '|:---:|:---:|:---:|:---:|\n'
 
-    for s in dir_list:
-        files = sorted(os.listdir(f"./{s}"))
+    prob_list = get_prob_list()
 
-        for filename in files:
-            probId, fileExt = map(str, filename.split("."))
-            print(f'Getting info for {probId}...')
-            (probTitle, probLevel) = get_problem_info(probId)
-            table += '| '+probId+' | ' + probTitle + ' | <img style="height:30px;" src="src/tier/'+str(probLevel)+'.svg"> | ['+ext[fileExt]+'](./'+ s + '/' + filename +') |\n'
+    for p in prob_list:
+        table += '| '+p['id']+' | ' + p['title'] + ' | <img style="height:30px;" src="src/tier/'+str(p['level'])+'.svg"> | ['+ext[p['ext']]+'](./'+ p['file_location'] +') |\n'
 
     table += '\n</div>'
     return table
