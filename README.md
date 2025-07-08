@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1640** | solved: **899** | class: **4**
+rate: **1640** | solved: **916** | class: **4**
 
-저장된 문제 수: **86**
+저장된 문제 수: **87**
 
-업데이트: 25.06.25. 23:54:23 (KST)
+업데이트: 25.07.08. 17:43:10 (KST)
 
 </div>
 <div align="center">
@@ -86,6 +86,7 @@ rate: **1640** | solved: **899** | class: **4**
 | 25703 | 포인터 공부 | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./25xxx/25703.cpp) |
 | 26332 | Buying in Bulk | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./26xxx/26332.cpp) |
 | 26495 | Big Number | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./26xxx/26495.py) |
+| 27112 | 시간 외 근무 멈춰! | <img style="height:30px;" src="src/tier/9.svg"> | [C++](./27xxx/27112.cpp) |
 | 27566 | Blueberry Waffle | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./27xxx/27566.cpp) |
 | 27865 | 랜덤 게임? | <img style="height:30px;" src="src/tier/5.svg"> | [C++](./27xxx/27865.cpp) |
 | 27951 | 옷걸이 | <img style="height:30px;" src="src/tier/5.svg"> | [C++](./27xxx/27951.cpp) |
