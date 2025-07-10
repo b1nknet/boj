@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1640** | solved: **916** | class: **4**
+rate: **1640** | solved: **918** | class: **4**
 
-저장된 문제 수: **87**
+저장된 문제 수: **88**
 
-업데이트: 25.07.08. 17:43:10 (KST)
+업데이트: 25.07.10. 18:14:44 (KST)
 
 </div>
 <div align="center">
@@ -51,6 +51,7 @@ rate: **1640** | solved: **916** | class: **4**
 | 6549 | 히스토그램에서 가장 큰 직사각형 | <img style="height:30px;" src="src/tier/16.svg"> | [C++](./06xxx/6549.cpp) |
 | 6768 | Don’t pass me the ball! | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./06xxx/6768.py) |
 | 7287 | 등록 | <img style="height:30px;" src="src/tier/1.svg"> | [C](./07xxx/7287.c) |
+| 7360 | Undercut | <img style="height:30px;" src="src/tier/4.svg"> | [C++](./07xxx/7360.cpp) |
 | 8370 | Plane | <img style="height:30px;" src="src/tier/1.svg"> | [C](./08xxx/8370.c) |
 | 9012 | 괄호 | <img style="height:30px;" src="src/tier/7.svg"> | [C](./09xxx/9012.c) |
 | 9493 | 길면 기차, 기차는 빨라, 빠른 것은 비행기 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./09xxx/9493.py) |
