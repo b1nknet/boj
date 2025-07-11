@@ -14,7 +14,7 @@ def get_header(handle):
 
     fileCount = 0
     for s in [f"{format(i, '02')}xxx" for i in range(1, 34)]:
-        fileCount += len(os.listdir(f"./{s}"))
+        fileCount += len(os.listdir(f"./problems/{s}"))
 
     header = '<div align="center">\n\n# BOJ\n\n**백준 문제 풀이 저장소**\n\n' \
         + "![Github code size in bytes](https://img.shields.io/github/languages/code-size/b1nknet/boj?style=flat-square)\n\n" \
@@ -30,11 +30,11 @@ def get_header(handle):
 def get_prob_list():
     prob_list = []
     for s in [f"{format(i, '02')}xxx" for i in range(1, 34)]:
-        files = sorted(os.listdir(f"./{s}"))
+        files = sorted(os.listdir(f"./problems/{s}"))
         
         for filename in files:
             probId, fileExt = map(str, filename.split('.'))
-            prob_list.append({"id": probId, "ext": fileExt, "file_location": f'{s}/{filename}'})
+            prob_list.append({"id": probId, "ext": fileExt, "file_location": f'problems/{s}/{filename}'})
 
     response = requests.get(f"{baseurl}/problem/lookup?problemIds={"%2C".join([prob['id'] for prob in prob_list])}")
     response.raise_for_status()
