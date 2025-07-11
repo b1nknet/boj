@@ -13,9 +13,9 @@
 
 rate: **1640** | solved: **920** | class: **4**
 
-저장된 문제 수: **92**
+저장된 문제 수: **93**
 
-업데이트: 25.07.11. 23:10:00 (KST)
+업데이트: 25.07.11. 23:13:11 (KST)
 
 </div>
 <div align="center">
@@ -49,6 +49,7 @@ rate: **1640** | solved: **920** | class: **4**
 | 4101 | 크냐? | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./04xxx/4101.py) |
 | 4900 | 7 더하기 | <img style="height:30px;" src="src/tier/8.svg"> | [Python](./04xxx/4900.py) |
 | 5063 | TGN | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./05xxx/5063.py) |
+| 5928 | Contest Timing | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./05xxx/5928.py) |
 | 6439 | 교차 | <img style="height:30px;" src="src/tier/15.svg"> | [C++](./06xxx/6439.cpp) |
 | 6549 | 히스토그램에서 가장 큰 직사각형 | <img style="height:30px;" src="src/tier/16.svg"> | [C++](./06xxx/6549.cpp) |
 | 6768 | Don’t pass me the ball! | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./06xxx/6768.py) |
