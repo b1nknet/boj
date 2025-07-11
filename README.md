@@ -13,9 +13,9 @@
 
 rate: **1640** | solved: **920** | class: **4**
 
-저장된 문제 수: **93**
+저장된 문제 수: **94**
 
-업데이트: 25.07.11. 23:13:11 (KST)
+업데이트: 25.07.11. 23:56:46 (KST)
 
 </div>
 <div align="center">
@@ -58,6 +58,7 @@ rate: **1640** | solved: **920** | class: **4**
 | 8370 | Plane | <img style="height:30px;" src="src/tier/1.svg"> | [C](./08xxx/8370.c) |
 | 9012 | 괄호 | <img style="height:30px;" src="src/tier/7.svg"> | [C](./09xxx/9012.c) |
 | 9493 | 길면 기차, 기차는 빨라, 빠른 것은 비행기 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./09xxx/9493.py) |
+| 9517 | VOLIM | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./09xxx/9517.cpp) |
 | 10026 | 적록색약 | <img style="height:30px;" src="src/tier/11.svg"> | [Python](./10xxx/10026.py) |
 | 10833 | 사과 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./10xxx/10833.py) |
 | 11000 | 강의실 배정 | <img style="height:30px;" src="src/tier/11.svg"> | [Python](./11xxx/11000.py) |
