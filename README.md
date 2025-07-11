@@ -13,9 +13,9 @@
 
 rate: **1640** | solved: **920** | class: **4**
 
-저장된 문제 수: **90**
+저장된 문제 수: **92**
 
-업데이트: 25.07.11. 23:09:07 (KST)
+업데이트: 25.07.11. 23:10:00 (KST)
 
 </div>
 <div align="center">
@@ -37,10 +37,12 @@ rate: **1640** | solved: **920** | class: **4**
 | 1016 | 제곱 ㄴㄴ 수 | <img style="height:30px;" src="src/tier/15.svg"> | [C++](./01xxx/1016.cpp) |
 | 1018 | 체스판 다시 칠하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./01xxx/1018.py) |
 | 1022 | 소용돌이 예쁘게 출력하기 | <img style="height:30px;" src="src/tier/13.svg"> | [C++](./01xxx/1022.cpp) |
+| 1025 | 제곱수 찾기 | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./01xxx/1025.cpp) |
 | 1205 | 등수 구하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./01xxx/1205.py) |
 | 1806 | 부분합 | <img style="height:30px;" src="src/tier/12.svg"> | [C++](./01xxx/1806.cpp) |
 | 2022 | 사다리 | <img style="height:30px;" src="src/tier/12.svg"> | [Python](./02xxx/2022.py) |
 | 2042 | 구간 합 구하기 | <img style="height:30px;" src="src/tier/15.svg"> | [Java](./02xxx/2042.java) |
+| 2437 | 저울 | <img style="height:30px;" src="src/tier/14.svg"> | [Python](./02xxx/2437.py) |
 | 2467 | 용액 | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./02xxx/2467.cpp) |
 | 3003 | BIJELE | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./03xxx/3003.py) |
 | 3047 | ABC | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./03xxx/3047.py) |
