@@ -1,4 +1,6 @@
 .conda
 .vscode
 
+test
+
 src/script/test.py
