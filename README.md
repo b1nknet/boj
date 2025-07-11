@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1640** | solved: **918** | class: **4**
+rate: **1640** | solved: **920** | class: **4**
 
-저장된 문제 수: **88**
+저장된 문제 수: **90**
 
-업데이트: 25.07.10. 18:14:44 (KST)
+업데이트: 25.07.11. 14:40:04 (KST)
 
 </div>
 <div align="center">
@@ -67,6 +67,7 @@ rate: **1640** | solved: **918** | class: **4**
 | 13399 | Rearranging a Sequence | <img style="height:30px;" src="src/tier/6.svg"> | [C++](./13xxx/13399.cpp) |
 | 13419 | 탕수육 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./13xxx/13419.py) |
 | 14003 | 가장 긴 증가하는 부분 수열 5 | <img style="height:30px;" src="src/tier/16.svg"> | [C++](./14xxx/14003.cpp) |
+| 14007 | Small Weird Measurements | <img style="height:30px;" src="src/tier/6.svg"> | [C++](./14xxx/14007.cpp) |
 | 14182 | Tax | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./14xxx/14182.py) |
 | 14468 | 소가 길을 건너간 이유 2 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./14xxx/14468.py) |
 | 14626 | ISBN | <img style="height:30px;" src="src/tier/5.svg"> | [Python](./14xxx/14626.py) |
@@ -98,6 +99,7 @@ rate: **1640** | solved: **918** | class: **4**
 | 30018 | 타슈 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./30xxx/30018.py) |
 | 30319 | Advance to Taoyuan Regional | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./30xxx/30319.py) |
 | 31048 | Last Factorial Digit | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./31xxx/31048.py) |
+| 32200 | 항해 | <img style="height:30px;" src="src/tier/6.svg"> | [Python](./32xxx/32200.py) |
 | 32278 | 선택 가능성이 가장 높은 자료형 | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./32xxx/32278.py) |
 | 32371 | 샷건 | <img style="height:30px;" src="src/tier/5.svg"> | [C++](./32xxx/32371.cpp) |
 | 33161 | 鉛筆 2 (Pencils 2) | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./33xxx/33161.py) |
