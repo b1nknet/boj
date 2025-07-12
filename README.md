@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1640** | solved: **920** | class: **4**
+rate: **1640** | solved: **922** | class: **4**
 
-저장된 문제 수: **94**
+저장된 문제 수: **96**
 
-업데이트: 25.07.12. 00:05:12 (KST)
+업데이트: 25.07.12. 13:20:36 (KST)
 
 </div>
 <div align="center">
@@ -73,6 +73,7 @@ rate: **1640** | solved: **920** | class: **4**
 | 14003 | 가장 긴 증가하는 부분 수열 5 | <img style="height:30px;" src="src/tier/16.svg"> | [C++](./problems/14xxx/14003.cpp) |
 | 14007 | Small Weird Measurements | <img style="height:30px;" src="src/tier/6.svg"> | [C++](./problems/14xxx/14007.cpp) |
 | 14182 | Tax | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/14xxx/14182.py) |
+| 14241 | 슬라임 합치기 | <img style="height:30px;" src="src/tier/8.svg"> | [C++](./problems/14xxx/14241.cpp) |
 | 14468 | 소가 길을 건너간 이유 2 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./problems/14xxx/14468.py) |
 | 14626 | ISBN | <img style="height:30px;" src="src/tier/5.svg"> | [Python](./problems/14xxx/14626.py) |
 | 15235 | Olympiad Pizza | <img style="height:30px;" src="src/tier/6.svg"> | [Python](./problems/15xxx/15235.py) |
@@ -115,6 +116,7 @@ rate: **1640** | solved: **920** | class: **4**
 | 33541 | 2025는 무엇이 특별할까? | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./problems/33xxx/33541.cpp) |
 | 33612 | 피갤컵 | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/33xxx/33612.py) |
 | 33810 | SciComLove (2025) | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/33xxx/33810.py) |
+| 33911 | 특별상 눈치게임 | <img style="height:30px;" src="src/tier/8.svg"> | [C++](./problems/33xxx/33911.cpp) |
 | 33964 | 레퓨닛의 덧셈 | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/33xxx/33964.py) |
 
 </div>
