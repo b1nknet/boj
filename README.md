@@ -13,9 +13,9 @@
 
 rate: **1641** | solved: **926** | class: **4**
 
-저장된 문제 수: **99**
+저장된 문제 수: **100**
 
-업데이트: 25.07.14. 18:51:52 (KST)
+업데이트: 25.07.14. 18:54:07 (KST)
 
 </div>
 <div align="center">
@@ -121,5 +121,6 @@ rate: **1641** | solved: **926** | class: **4**
 | 33810 | SciComLove (2025) | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/33xxx/33810.py) |
 | 33911 | 특별상 눈치게임 | <img style="height:30px;" src="src/tier/8.svg"> | [C++](./problems/33xxx/33911.cpp) |
 | 33964 | 레퓨닛의 덧셈 | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/33xxx/33964.py) |
+| 34052 | 체육은 수학과목 입니다 2 | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/34xxx/34052.py) |
 
 </div>
