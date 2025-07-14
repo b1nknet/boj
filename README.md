@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1641** | solved: **924** | class: **4**
+rate: **1641** | solved: **926** | class: **4**
 
-저장된 문제 수: **98**
+저장된 문제 수: **99**
 
-업데이트: 25.07.13. 20:22:49 (KST)
+업데이트: 25.07.14. 18:51:52 (KST)
 
 </div>
 <div align="center">
@@ -60,6 +60,7 @@ rate: **1641** | solved: **924** | class: **4**
 | 9493 | 길면 기차, 기차는 빨라, 빠른 것은 비행기 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/09xxx/9493.py) |
 | 9517 | VOLIM | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./problems/09xxx/9517.cpp) |
 | 10026 | 적록색약 | <img style="height:30px;" src="src/tier/11.svg"> | [Python](./problems/10xxx/10026.py) |
+| 10569 | 다면체 | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./problems/10xxx/10569.cpp) |
 | 10833 | 사과 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/10xxx/10833.py) |
 | 11000 | 강의실 배정 | <img style="height:30px;" src="src/tier/11.svg"> | [Python](./problems/11xxx/11000.py) |
 | 11011 | Forged Answers | <img style="height:30px;" src="src/tier/16.svg"> | [C++](./problems/11xxx/11011.cpp) |
