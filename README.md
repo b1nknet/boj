@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1641** | solved: **926** | class: **4**
+rate: **1641** | solved: **928** | class: **4**
 
-저장된 문제 수: **100**
+저장된 문제 수: **102**
 
-업데이트: 25.07.14. 18:54:07 (KST)
+업데이트: 25.07.15. 17:50:19 (KST)
 
 </div>
 <div align="center">
@@ -87,6 +87,8 @@ rate: **1641** | solved: **926** | class: **4**
 | 18330 | Petrol | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/18xxx/18330.py) |
 | 19602 | Dog Treats | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/19xxx/19602.py) |
 | 20104 | Timecard | <img style="height:30px;" src="src/tier/4.svg"> | [C++](./problems/20xxx/20104.cpp) |
+| 20352 | Circus | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/20xxx/20352.py) |
+| 21633 | Bank Transfer | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/21xxx/21633.py) |
 | 21875 | Innohorse | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./problems/21xxx/21875.cpp) |
 | 22015 | 金平糖 (Konpeito) | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/22xxx/22015.py) |
 | 23234 | The World Responds | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/23xxx/23234.py) |
