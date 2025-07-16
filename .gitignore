@@ -2,7 +2,7 @@
 .vscode
 .env
 
-test
 script
 
-src/script/test.py
+unsorted
+duplicated

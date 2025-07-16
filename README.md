@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1641** | solved: **928** | class: **4**
+rate: **1642** | solved: **930** | class: **4**
 
-저장된 문제 수: **102**
+저장된 문제 수: **104**
 
-업데이트: 25.07.15. 17:50:19 (KST)
+업데이트: 25.07.16. 14:56:02 (KST)
 
 </div>
 <div align="center">
@@ -112,6 +112,7 @@ rate: **1641** | solved: **928** | class: **4**
 | 32200 | 항해 | <img style="height:30px;" src="src/tier/6.svg"> | [Python](./problems/32xxx/32200.py) |
 | 32278 | 선택 가능성이 가장 높은 자료형 | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/32xxx/32278.py) |
 | 32371 | 샷건 | <img style="height:30px;" src="src/tier/5.svg"> | [C++](./problems/32xxx/32371.cpp) |
+| 32642 | 당구 좀 치자 제발 | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/32xxx/32642.py) |
 | 33161 | 鉛筆 2 (Pencils 2) | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/33xxx/33161.py) |
 | 33165 | 徒競走 (Footrace) | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/33xxx/33165.py) |
 | 33169 | 所持金 (Money On Me) | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/33xxx/33169.py) |
@@ -120,6 +121,7 @@ rate: **1641** | solved: **928** | class: **4**
 | 33515 | 노트북 세 대를 가지고 왔다 | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/33xxx/33515.py) |
 | 33541 | 2025는 무엇이 특별할까? | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./problems/33xxx/33541.cpp) |
 | 33612 | 피갤컵 | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/33xxx/33612.py) |
+| 33701 | 새천년관 | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/33xxx/33701.py) |
 | 33810 | SciComLove (2025) | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/33xxx/33810.py) |
 | 33911 | 특별상 눈치게임 | <img style="height:30px;" src="src/tier/8.svg"> | [C++](./problems/33xxx/33911.cpp) |
 | 33964 | 레퓨닛의 덧셈 | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/33xxx/33964.py) |
