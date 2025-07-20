@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1642** | solved: **930** | class: **4**
+rate: **1642** | solved: **937** | class: **4**
 
-저장된 문제 수: **104**
+저장된 문제 수: **111**
 
-업데이트: 25.07.16. 14:56:02 (KST)
+업데이트: 25.07.20. 20:56:58 (KST)
 
 </div>
 <div align="center">
@@ -44,12 +44,14 @@ rate: **1642** | solved: **930** | class: **4**
 | 2042 | 구간 합 구하기 | <img style="height:30px;" src="src/tier/15.svg"> | [Java](./problems/02xxx/2042.java) |
 | 2437 | 저울 | <img style="height:30px;" src="src/tier/14.svg"> | [Python](./problems/02xxx/2437.py) |
 | 2467 | 용액 | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./problems/02xxx/2467.cpp) |
+| 2897 | CUDOVISTE | <img style="height:30px;" src="src/tier/5.svg"> | [C++](./problems/02xxx/2897.cpp) |
 | 3003 | BIJELE | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/03xxx/3003.py) |
 | 3047 | ABC | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/03xxx/3047.py) |
 | 4101 | 크냐? | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/04xxx/4101.py) |
 | 4900 | 7 더하기 | <img style="height:30px;" src="src/tier/8.svg"> | [Python](./problems/04xxx/4900.py) |
 | 5063 | TGN | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/05xxx/5063.py) |
 | 5928 | Contest Timing | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/05xxx/5928.py) |
+| 6031 | Feeding Time | <img style="height:30px;" src="src/tier/10.svg"> | [Python](./problems/06xxx/6031.py) |
 | 6439 | 교차 | <img style="height:30px;" src="src/tier/15.svg"> | [C++](./problems/06xxx/6439.cpp) |
 | 6549 | 히스토그램에서 가장 큰 직사각형 | <img style="height:30px;" src="src/tier/16.svg"> | [C++](./problems/06xxx/6549.cpp) |
 | 6768 | Don’t pass me the ball! | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/06xxx/6768.py) |
@@ -67,8 +69,10 @@ rate: **1642** | solved: **930** | class: **4**
 | 11116 | 교통량 | <img style="height:30px;" src="src/tier/6.svg"> | [C++](./problems/11xxx/11116.cpp) |
 | 11295 | Exercising | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./problems/11xxx/11295.cpp) |
 | 11575 | Affine Cipher | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/11xxx/11575.py) |
+| 11640 | Scaling Recipes | <img style="height:30px;" src="src/tier/4.svg"> | [Java](./problems/11xxx/11640.java) |
 | 12015 | 가장 긴 증가하는 부분 수열 2 | <img style="height:30px;" src="src/tier/14.svg"> | [C++](./problems/12xxx/12015.cpp) |
 | 12209 | Super 2048 (Large) | <img style="height:30px;" src="src/tier/10.svg"> | [C++](./problems/12xxx/12209.cpp) |
+| 12268 | Meet and party (Small) | <img style="height:30px;" src="src/tier/7.svg"> | [C++](./problems/12xxx/12268.cpp) |
 | 12790 | Mini Fantasy War | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/12xxx/12790.py) |
 | 13399 | Rearranging a Sequence | <img style="height:30px;" src="src/tier/6.svg"> | [C++](./problems/13xxx/13399.cpp) |
 | 13419 | 탕수육 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/13xxx/13419.py) |
@@ -82,6 +86,7 @@ rate: **1642** | solved: **930** | class: **4**
 | 15722 | 빙글빙글 스네일 | <img style="height:30px;" src="src/tier/5.svg"> | [Python](./problems/15xxx/15722.py) |
 | 16017 | Telemarketer or not? | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/16xxx/16017.py) |
 | 17009 | Winning Score | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/17xxx/17009.py) |
+| 17040 | The Great Revegetation (Bronze) | <img style="height:30px;" src="src/tier/8.svg"> | [C++](./problems/17xxx/17040.cpp) |
 | 18127 | 모형결정 | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./problems/18xxx/18127.cpp) |
 | 18265 | MooBuzz | <img style="height:30px;" src="src/tier/6.svg"> | [C++](./problems/18xxx/18265.cpp) |
 | 18330 | Petrol | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/18xxx/18330.py) |
@@ -95,6 +100,7 @@ rate: **1642** | solved: **930** | class: **4**
 | 24724 | 현대모비스와 함께하는 부품 관리 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/24xxx/24724.py) |
 | 25062 | Boundary | <img style="height:30px;" src="src/tier/10.svg"> | [C++](./problems/25xxx/25062.cpp) |
 | 25083 | 새싹 | <img style="height:30px;" src="src/tier/1.svg"> | [C](./problems/25xxx/25083.c) |
+| 25333 | 개구리 | <img style="height:30px;" src="src/tier/9.svg"> | [C++](./problems/25xxx/25333.cpp) |
 | 25703 | 포인터 공부 | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./problems/25xxx/25703.cpp) |
 | 26332 | Buying in Bulk | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./problems/26xxx/26332.cpp) |
 | 26495 | Big Number | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/26xxx/26495.py) |
@@ -113,6 +119,7 @@ rate: **1642** | solved: **930** | class: **4**
 | 32278 | 선택 가능성이 가장 높은 자료형 | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/32xxx/32278.py) |
 | 32371 | 샷건 | <img style="height:30px;" src="src/tier/5.svg"> | [C++](./problems/32xxx/32371.cpp) |
 | 32642 | 당구 좀 치자 제발 | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/32xxx/32642.py) |
+| 32684 | 장기 | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/32xxx/32684.py) |
 | 33161 | 鉛筆 2 (Pencils 2) | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/33xxx/33161.py) |
 | 33165 | 徒競走 (Footrace) | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/33xxx/33165.py) |
 | 33169 | 所持金 (Money On Me) | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/33xxx/33169.py) |
