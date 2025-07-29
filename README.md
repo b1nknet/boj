@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1643** | solved: **949** | class: **4**
+rate: **1644** | solved: **955** | class: **4**
 
-저장된 문제 수: **123**
+저장된 문제 수: **128**
 
-업데이트: 25.07.27. 10:33:31 (KST)
+업데이트: 25.07.29. 22:20:36 (KST)
 
 </div>
 <div align="center">
@@ -59,6 +59,7 @@ rate: **1643** | solved: **949** | class: **4**
 | 6494 | Another lottery | <img style="height:30px;" src="src/tier/7.svg"> | [C++](./problems/06xxx/6494.cpp) |
 | 6549 | 히스토그램에서 가장 큰 직사각형 | <img style="height:30px;" src="src/tier/16.svg"> | [C++](./problems/06xxx/6549.cpp) |
 | 6768 | Don’t pass me the ball! | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/06xxx/6768.py) |
+| 6784 | Multiple Choice | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/06xxx/6784.py) |
 | 7287 | 등록 | <img style="height:30px;" src="src/tier/1.svg"> | [C](./problems/07xxx/7287.c) |
 | 7360 | Undercut | <img style="height:30px;" src="src/tier/4.svg"> | [C++](./problems/07xxx/7360.cpp) |
 | 8370 | Plane | <img style="height:30px;" src="src/tier/1.svg"> | [C](./problems/08xxx/8370.c) |
@@ -69,6 +70,7 @@ rate: **1643** | solved: **949** | class: **4**
 | 10026 | 적록색약 | <img style="height:30px;" src="src/tier/11.svg"> | [Python](./problems/10xxx/10026.py) |
 | 10159 | 저울 | <img style="height:30px;" src="src/tier/12.svg"> | [C++](./problems/10xxx/10159.cpp) |
 | 10569 | 다면체 | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./problems/10xxx/10569.cpp) |
+| 10696 | Prof. Ossama | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./problems/10xxx/10696.cpp) |
 | 10833 | 사과 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/10xxx/10833.py) |
 | 11000 | 강의실 배정 | <img style="height:30px;" src="src/tier/11.svg"> | [Python](./problems/11xxx/11000.py) |
 | 11011 | Forged Answers | <img style="height:30px;" src="src/tier/16.svg"> | [C++](./problems/11xxx/11011.cpp) |
@@ -99,9 +101,12 @@ rate: **1643** | solved: **949** | class: **4**
 | 18330 | Petrol | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/18xxx/18330.py) |
 | 19602 | Dog Treats | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/19xxx/19602.py) |
 | 20104 | Timecard | <img style="height:30px;" src="src/tier/4.svg"> | [C++](./problems/20xxx/20104.cpp) |
+| 20336 | Haughty Cuisine | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./problems/20xxx/20336.cpp) |
 | 20352 | Circus | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/20xxx/20352.py) |
 | 21354 | Äpplen och päron | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/21xxx/21354.py) |
+| 21631 | Checkers | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./problems/21xxx/21631.cpp) |
 | 21633 | Bank Transfer | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/21xxx/21633.py) |
+| 21638 | SMS from MCHS | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./problems/21xxx/21638.cpp) |
 | 21875 | Innohorse | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./problems/21xxx/21875.cpp) |
 | 22015 | 金平糖 (Konpeito) | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/22xxx/22015.py) |
 | 23234 | The World Responds | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/23xxx/23234.py) |
