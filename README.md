@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1644** | solved: **955** | class: **4**
+rate: **1653** | solved: **1039** | class: **4**
 
-저장된 문제 수: **128**
+저장된 문제 수: **132**
 
-업데이트: 25.07.29. 22:20:36 (KST)
+업데이트: 25.08.16. 17:24:18 (KST)
 
 </div>
 <div align="center">
@@ -40,8 +40,9 @@ rate: **1644** | solved: **955** | class: **4**
 | 1022 | 소용돌이 예쁘게 출력하기 | <img style="height:30px;" src="src/tier/13.svg"> | [C++](./problems/01xxx/1022.cpp) |
 | 1025 | 제곱수 찾기 | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./problems/01xxx/1025.cpp) |
 | 1205 | 등수 구하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./problems/01xxx/1205.py) |
-| 1515 | 수 이어 쓰기 | <img style="height:30px;" src="src/tier/8.svg"> | [C++](./problems/01xxx/1515.cpp) |
+| 1515 | 수 이어 쓰기 | <img style="height:30px;" src="src/tier/9.svg"> | [C++](./problems/01xxx/1515.cpp) |
 | 1806 | 부분합 | <img style="height:30px;" src="src/tier/12.svg"> | [C++](./problems/01xxx/1806.cpp) |
+| 1876 | 튕기는 볼링공 | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./problems/01xxx/1876.cpp) |
 | 2022 | 사다리 | <img style="height:30px;" src="src/tier/12.svg"> | [Python](./problems/02xxx/2022.py) |
 | 2042 | 구간 합 구하기 | <img style="height:30px;" src="src/tier/15.svg"> | [Java](./problems/02xxx/2042.java) |
 | 2437 | 저울 | <img style="height:30px;" src="src/tier/14.svg"> | [Python](./problems/02xxx/2437.py) |
@@ -49,9 +50,11 @@ rate: **1644** | solved: **955** | class: **4**
 | 2897 | CUDOVISTE | <img style="height:30px;" src="src/tier/5.svg"> | [C++](./problems/02xxx/2897.cpp) |
 | 3003 | BIJELE | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/03xxx/3003.py) |
 | 3047 | ABC | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/03xxx/3047.py) |
+| 3749 | Build Your Home | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./problems/03xxx/3749.cpp) |
 | 4101 | 크냐? | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/04xxx/4101.py) |
 | 4900 | 7 더하기 | <img style="height:30px;" src="src/tier/8.svg"> | [Python](./problems/04xxx/4900.py) |
 | 5063 | TGN | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/05xxx/5063.py) |
+| 5622 | 다이얼 | <img style="height:30px;" src="src/tier/4.svg"> | [C++](./problems/05xxx/5622.cpp) |
 | 5928 | Contest Timing | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/05xxx/5928.py) |
 | 6031 | Feeding Time | <img style="height:30px;" src="src/tier/10.svg"> | [Python](./problems/06xxx/6031.py) |
 | 6103 | Sand Castle | <img style="height:30px;" src="src/tier/10.svg"> | [C++](./problems/06xxx/6103.cpp) |
@@ -70,9 +73,9 @@ rate: **1644** | solved: **955** | class: **4**
 | 10026 | 적록색약 | <img style="height:30px;" src="src/tier/11.svg"> | [Python](./problems/10xxx/10026.py) |
 | 10159 | 저울 | <img style="height:30px;" src="src/tier/12.svg"> | [C++](./problems/10xxx/10159.cpp) |
 | 10569 | 다면체 | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./problems/10xxx/10569.cpp) |
-| 10696 | Prof. Ossama | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./problems/10xxx/10696.cpp) |
+| 10696 | Prof. Ossama | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./problems/10xxx/10696.cpp) |
 | 10833 | 사과 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/10xxx/10833.py) |
-| 11000 | 강의실 배정 | <img style="height:30px;" src="src/tier/11.svg"> | [Python](./problems/11xxx/11000.py) |
+| 11000 | 강의실 배정 | <img style="height:30px;" src="src/tier/12.svg"> | [Python](./problems/11xxx/11000.py) |
 | 11011 | Forged Answers | <img style="height:30px;" src="src/tier/16.svg"> | [C++](./problems/11xxx/11011.cpp) |
 | 11116 | 교통량 | <img style="height:30px;" src="src/tier/6.svg"> | [C++](./problems/11xxx/11116.cpp) |
 | 11295 | Exercising | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./problems/11xxx/11295.cpp) |
@@ -101,6 +104,7 @@ rate: **1644** | solved: **955** | class: **4**
 | 18330 | Petrol | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/18xxx/18330.py) |
 | 19602 | Dog Treats | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/19xxx/19602.py) |
 | 20104 | Timecard | <img style="height:30px;" src="src/tier/4.svg"> | [C++](./problems/20xxx/20104.cpp) |
+| 20157 | 화살을 쏘자! | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./problems/20xxx/20157.cpp) |
 | 20336 | Haughty Cuisine | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./problems/20xxx/20336.cpp) |
 | 20352 | Circus | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/20xxx/20352.py) |
 | 21354 | Äpplen och päron | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/21xxx/21354.py) |
