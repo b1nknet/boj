@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1653** | solved: **1041** | class: **4**
+rate: **1653** | solved: **1043** | class: **4**
 
-저장된 문제 수: **134**
+저장된 문제 수: **136**
 
-업데이트: 25.08.18. 18:26:56 (KST)
+업데이트: 25.08.20. 23:17:19 (KST)
 
 </div>
 <div align="center">
@@ -40,6 +40,8 @@ rate: **1653** | solved: **1041** | class: **4**
 | 1022 | 소용돌이 예쁘게 출력하기 | <img style="height:30px;" src="src/tier/13.svg"> | [C++](./problems/01xxx/1022.cpp) |
 | 1025 | 제곱수 찾기 | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./problems/01xxx/1025.cpp) |
 | 1076 | 저항 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1076.py) |
+| 1100 | 하얀 칸 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1100.py) |
+| 1159 | 농구 경기 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1159.py) |
 | 1205 | 등수 구하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./problems/01xxx/1205.py) |
 | 1515 | 수 이어 쓰기 | <img style="height:30px;" src="src/tier/9.svg"> | [C++](./problems/01xxx/1515.cpp) |
 | 1806 | 부분합 | <img style="height:30px;" src="src/tier/12.svg"> | [C++](./problems/01xxx/1806.cpp) |
