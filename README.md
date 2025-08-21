@@ -13,9 +13,9 @@
 
 rate: **1653** | solved: **1043** | class: **4**
 
-저장된 문제 수: **136**
+저장된 문제 수: **137**
 
-업데이트: 25.08.20. 23:17:19 (KST)
+업데이트: 25.08.21. 22:07:59 (KST)
 
 </div>
 <div align="center">
@@ -50,6 +50,7 @@ rate: **1653** | solved: **1043** | class: **4**
 | 2042 | 구간 합 구하기 | <img style="height:30px;" src="src/tier/15.svg"> | [Java](./problems/02xxx/2042.java) |
 | 2437 | 저울 | <img style="height:30px;" src="src/tier/14.svg"> | [Python](./problems/02xxx/2437.py) |
 | 2467 | 용액 | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./problems/02xxx/2467.cpp) |
+| 2587 | 대표값2 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/02xxx/2587.py) |
 | 2897 | CUDOVISTE | <img style="height:30px;" src="src/tier/5.svg"> | [C++](./problems/02xxx/2897.cpp) |
 | 3003 | BIJELE | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/03xxx/3003.py) |
 | 3047 | ABC | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/03xxx/3047.py) |
