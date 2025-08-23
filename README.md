@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1653** | solved: **1045** | class: **4**
+rate: **1653** | solved: **1046** | class: **4**
 
-저장된 문제 수: **138**
+저장된 문제 수: **139**
 
-업데이트: 25.08.22. 17:48:13 (KST)
+업데이트: 25.08.23. 12:20:14 (KST)
 
 </div>
 <div align="center">
@@ -123,6 +123,7 @@ rate: **1653** | solved: **1045** | class: **4**
 | 24724 | 현대모비스와 함께하는 부품 관리 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/24xxx/24724.py) |
 | 25062 | Boundary | <img style="height:30px;" src="src/tier/10.svg"> | [C++](./problems/25xxx/25062.cpp) |
 | 25083 | 새싹 | <img style="height:30px;" src="src/tier/1.svg"> | [C](./problems/25xxx/25083.c) |
+| 25305 | 커트라인 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/25xxx/25305.py) |
 | 25333 | 개구리 | <img style="height:30px;" src="src/tier/9.svg"> | [C++](./problems/25xxx/25333.cpp) |
 | 25703 | 포인터 공부 | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./problems/25xxx/25703.cpp) |
 | 26332 | Buying in Bulk | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./problems/26xxx/26332.cpp) |
