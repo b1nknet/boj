@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1653** | solved: **1046** | class: **4**
+rate: **1653** | solved: **1047** | class: **4**
 
-저장된 문제 수: **139**
+저장된 문제 수: **140**
 
-업데이트: 25.08.23. 12:20:14 (KST)
+업데이트: 25.08.24. 09:57:46 (KST)
 
 </div>
 <div align="center">
@@ -43,6 +43,7 @@ rate: **1653** | solved: **1046** | class: **4**
 | 1100 | 하얀 칸 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1100.py) |
 | 1159 | 농구 경기 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1159.py) |
 | 1205 | 등수 구하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./problems/01xxx/1205.py) |
+| 1225 | 이상한 곱셈 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1225.py) |
 | 1515 | 수 이어 쓰기 | <img style="height:30px;" src="src/tier/9.svg"> | [C++](./problems/01xxx/1515.cpp) |
 | 1806 | 부분합 | <img style="height:30px;" src="src/tier/12.svg"> | [C++](./problems/01xxx/1806.cpp) |
 | 1876 | 튕기는 볼링공 | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./problems/01xxx/1876.cpp) |
