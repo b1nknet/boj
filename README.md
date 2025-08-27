@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1653** | solved: **1048** | class: **4**
+rate: **1653** | solved: **1050** | class: **4**
 
-저장된 문제 수: **141**
+저장된 문제 수: **143**
 
-업데이트: 25.08.25. 19:48:12 (KST)
+업데이트: 25.08.27. 13:51:52 (KST)
 
 </div>
 <div align="center">
@@ -46,6 +46,7 @@ rate: **1653** | solved: **1048** | class: **4**
 | 1205 | 등수 구하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./problems/01xxx/1205.py) |
 | 1225 | 이상한 곱셈 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1225.py) |
 | 1515 | 수 이어 쓰기 | <img style="height:30px;" src="src/tier/9.svg"> | [C++](./problems/01xxx/1515.cpp) |
+| 1547 | 공 | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./problems/01xxx/1547.cpp) |
 | 1806 | 부분합 | <img style="height:30px;" src="src/tier/12.svg"> | [C++](./problems/01xxx/1806.cpp) |
 | 1876 | 튕기는 볼링공 | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./problems/01xxx/1876.cpp) |
 | 2022 | 사다리 | <img style="height:30px;" src="src/tier/12.svg"> | [Python](./problems/02xxx/2022.py) |
@@ -122,6 +123,7 @@ rate: **1653** | solved: **1048** | class: **4**
 | 21875 | Innohorse | <img style="height:30px;" src="src/tier/2.svg"> | [C++](./problems/21xxx/21875.cpp) |
 | 22015 | 金平糖 (Konpeito) | <img style="height:30px;" src="src/tier/2.svg"> | [Python](./problems/22xxx/22015.py) |
 | 23234 | The World Responds | <img style="height:30px;" src="src/tier/1.svg"> | [Python](./problems/23xxx/23234.py) |
+| 24264 | 알고리즘 수업 - 알고리즘의 수행 시간 3 | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./problems/24xxx/24264.cpp) |
 | 24724 | 현대모비스와 함께하는 부품 관리 | <img style="height:30px;" src="src/tier/3.svg"> | [Python](./problems/24xxx/24724.py) |
 | 25062 | Boundary | <img style="height:30px;" src="src/tier/10.svg"> | [C++](./problems/25xxx/25062.cpp) |
 | 25083 | 새싹 | <img style="height:30px;" src="src/tier/1.svg"> | [C](./problems/25xxx/25083.c) |
