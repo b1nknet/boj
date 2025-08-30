@@ -13,9 +13,9 @@
 
 rate: **1654** | solved: **1052** | class: **4**
 
-저장된 문제 수: **145**
+저장된 문제 수: **146**
 
-업데이트: 25.08.29. 08:10:49 (KST)
+업데이트: 25.08.30. 10:14:19 (KST)
 
 </div>
 <div align="center">
@@ -104,6 +104,7 @@ rate: **1654** | solved: **1052** | class: **4**
 | 14241 | 슬라임 합치기 | <img style="height:30px;" src="src/tier/8.svg"> | [C++](./problems/14xxx/14241.cpp) |
 | 14468 | 소가 길을 건너간 이유 2 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./problems/14xxx/14468.py) |
 | 14626 | ISBN | <img style="height:30px;" src="src/tier/5.svg"> | [Python](./problems/14xxx/14626.py) |
+| 14889 | 스타트와 링크 | <img style="height:30px;" src="src/tier/10.svg"> | [Python](./problems/14xxx/14889.py) |
 | 15235 | Olympiad Pizza | <img style="height:30px;" src="src/tier/6.svg"> | [Python](./problems/15xxx/15235.py) |
 | 15722 | 빙글빙글 스네일 | <img style="height:30px;" src="src/tier/5.svg"> | [Python](./problems/15xxx/15722.py) |
 | 15966 | 군계일학 | <img style="height:30px;" src="src/tier/10.svg"> | [C++](./problems/15xxx/15966.cpp) |
