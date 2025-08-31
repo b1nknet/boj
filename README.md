@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1654** | solved: **1052** | class: **4**
+rate: **1654** | solved: **1054** | class: **4**
 
-저장된 문제 수: **146**
+저장된 문제 수: **147**
 
-업데이트: 25.08.30. 10:14:19 (KST)
+업데이트: 25.08.31. 17:49:25 (KST)
 
 </div>
 <div align="center">
@@ -39,6 +39,7 @@ rate: **1654** | solved: **1052** | class: **4**
 | 1018 | 체스판 다시 칠하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./problems/01xxx/1018.py) |
 | 1022 | 소용돌이 예쁘게 출력하기 | <img style="height:30px;" src="src/tier/13.svg"> | [C++](./problems/01xxx/1022.cpp) |
 | 1025 | 제곱수 찾기 | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./problems/01xxx/1025.cpp) |
+| 1026 | 보물 | <img style="height:30px;" src="src/tier/7.svg"> | [C++](./problems/01xxx/1026.cpp) |
 | 1076 | 저항 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1076.py) |
 | 1100 | 하얀 칸 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1100.py) |
 | 1159 | 농구 경기 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1159.py) |
