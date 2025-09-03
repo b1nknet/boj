@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1654** | solved: **1055** | class: **4**
+rate: **1654** | solved: **1056** | class: **4**
 
-저장된 문제 수: **148**
+저장된 문제 수: **150**
 
-업데이트: 25.09.01. 20:31:55 (KST)
+업데이트: 25.09.03. 18:10:36 (KST)
 
 </div>
 <div align="center">
@@ -43,8 +43,10 @@ rate: **1654** | solved: **1055** | class: **4**
 | 1076 | 저항 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1076.py) |
 | 1100 | 하얀 칸 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1100.py) |
 | 1124 | 언더프라임 | <img style="height:30px;" src="src/tier/10.svg"> | [Python](./problems/01xxx/1124.py) |
+| 1141 | 접두사 | <img style="height:30px;" src="src/tier/10.svg"> | [C++](./problems/01xxx/1141.cpp) |
 | 1159 | 농구 경기 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1159.py) |
 | 1173 | 운동 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1173.py) |
+| 1189 | 컴백홈 | <img style="height:30px;" src="src/tier/10.svg"> | [Python](./problems/01xxx/1189.py) |
 | 1205 | 등수 구하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./problems/01xxx/1205.py) |
 | 1225 | 이상한 곱셈 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1225.py) |
 | 1233 | 주사위 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1233.py) |
