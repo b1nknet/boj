@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1654** | solved: **1056** | class: **4**
+rate: **1654** | solved: **1058** | class: **4**
 
-저장된 문제 수: **150**
+저장된 문제 수: **151**
 
-업데이트: 25.09.03. 18:10:36 (KST)
+업데이트: 25.09.04. 21:12:55 (KST)
 
 </div>
 <div align="center">
@@ -50,6 +50,7 @@ rate: **1654** | solved: **1056** | class: **4**
 | 1205 | 등수 구하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./problems/01xxx/1205.py) |
 | 1225 | 이상한 곱셈 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1225.py) |
 | 1233 | 주사위 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1233.py) |
+| 1303 | 전쟁 - 전투 | <img style="height:30px;" src="src/tier/10.svg"> | [Python](./problems/01xxx/1303.py) |
 | 1515 | 수 이어 쓰기 | <img style="height:30px;" src="src/tier/9.svg"> | [C++](./problems/01xxx/1515.cpp) |
 | 1547 | 공 | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./problems/01xxx/1547.cpp) |
 | 1806 | 부분합 | <img style="height:30px;" src="src/tier/12.svg"> | [C++](./problems/01xxx/1806.cpp) |
