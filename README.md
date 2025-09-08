@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1654** | solved: **1061** | class: **4**
+rate: **1654** | solved: **1062** | class: **4**
 
-저장된 문제 수: **154**
+저장된 문제 수: **155**
 
-업데이트: 25.09.07. 11:21:10 (KST)
+업데이트: 25.09.08. 19:57:26 (KST)
 
 </div>
 <div align="center">
@@ -36,7 +36,7 @@ rate: **1654** | solved: **1061** | class: **4**
 | 1012 | 유기농 배추 | <img style="height:30px;" src="src/tier/9.svg"> | [Python](./problems/01xxx/1012.py) |
 | 1013 | Contact | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./problems/01xxx/1013.cpp) |
 | 1016 | 제곱 ㄴㄴ 수 | <img style="height:30px;" src="src/tier/15.svg"> | [C++](./problems/01xxx/1016.cpp) |
-| 1018 | 체스판 다시 칠하기 | <img style="height:30px;" src="src/tier/7.svg"> | [Python](./problems/01xxx/1018.py) |
+| 1018 | 체스판 다시 칠하기 | <img style="height:30px;" src="src/tier/8.svg"> | [Python](./problems/01xxx/1018.py) |
 | 1021 | 회전하는 큐 | <img style="height:30px;" src="src/tier/8.svg"> | [Python](./problems/01xxx/1021.py) |
 | 1022 | 소용돌이 예쁘게 출력하기 | <img style="height:30px;" src="src/tier/13.svg"> | [C++](./problems/01xxx/1022.cpp) |
 | 1025 | 제곱수 찾기 | <img style="height:30px;" src="src/tier/11.svg"> | [C++](./problems/01xxx/1025.cpp) |
@@ -52,6 +52,7 @@ rate: **1654** | solved: **1061** | class: **4**
 | 1225 | 이상한 곱셈 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1225.py) |
 | 1233 | 주사위 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1233.py) |
 | 1303 | 전쟁 - 전투 | <img style="height:30px;" src="src/tier/10.svg"> | [Python](./problems/01xxx/1303.py) |
+| 1309 | 동물원 | <img style="height:30px;" src="src/tier/10.svg"> | [Python](./problems/01xxx/1309.py) |
 | 1389 | 케빈 베이컨의 6단계 법칙 | <img style="height:30px;" src="src/tier/10.svg"> | [C++](./problems/01xxx/1389.cpp) |
 | 1515 | 수 이어 쓰기 | <img style="height:30px;" src="src/tier/9.svg"> | [C++](./problems/01xxx/1515.cpp) |
 | 1547 | 공 | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./problems/01xxx/1547.cpp) |
