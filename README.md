@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1654** | solved: **1062** | class: **4**
+rate: **1654** | solved: **1063** | class: **4**
 
-저장된 문제 수: **155**
+저장된 문제 수: **156**
 
-업데이트: 25.09.08. 19:57:26 (KST)
+업데이트: 25.09.09. 22:03:08 (KST)
 
 </div>
 <div align="center">
@@ -53,6 +53,7 @@ rate: **1654** | solved: **1062** | class: **4**
 | 1233 | 주사위 | <img style="height:30px;" src="src/tier/4.svg"> | [Python](./problems/01xxx/1233.py) |
 | 1303 | 전쟁 - 전투 | <img style="height:30px;" src="src/tier/10.svg"> | [Python](./problems/01xxx/1303.py) |
 | 1309 | 동물원 | <img style="height:30px;" src="src/tier/10.svg"> | [Python](./problems/01xxx/1309.py) |
+| 1325 | 효율적인 해킹 | <img style="height:30px;" src="src/tier/10.svg"> | [C++](./problems/01xxx/1325.cpp) |
 | 1389 | 케빈 베이컨의 6단계 법칙 | <img style="height:30px;" src="src/tier/10.svg"> | [C++](./problems/01xxx/1389.cpp) |
 | 1515 | 수 이어 쓰기 | <img style="height:30px;" src="src/tier/9.svg"> | [C++](./problems/01xxx/1515.cpp) |
 | 1547 | 공 | <img style="height:30px;" src="src/tier/3.svg"> | [C++](./problems/01xxx/1547.cpp) |
