@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1654** | solved: **1072** | class: **4**
+rate: **1654** | solved: **1073** | class: **4**
 
-저장된 문제 수: **164**
+저장된 문제 수: **166**
 
-업데이트: 25.09.10. 18:50:09 (KST)
+업데이트: 25.09.11. 20:50:32 (KST)
 
 </div>
 <div align="center">
@@ -100,6 +100,7 @@ rate: **1654** | solved: **1072** | class: **4**
 | 10448 | 유레카 이론 | <img style="height:30px;" src="src/tier/5.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/10xxx/10448.py) |
 | 10569 | 다면체 | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/10xxx/10569.cpp) |
 | 10696 | Prof. Ossama | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/10xxx/10696.cpp) |
+| 10799 | 쇠막대기 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/10xxx/10799.py) |
 | 10811 | 바구니 뒤집기 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/10xxx/10811.cpp) |
 | 10813 | 공 바꾸기 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/10xxx/10813.cpp) |
 | 10833 | 사과 | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/10xxx/10833.py) |
@@ -132,6 +133,7 @@ rate: **1654** | solved: **1072** | class: **4**
 | 18127 | 모형결정 | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/18xxx/18127.cpp) |
 | 18265 | MooBuzz | <img style="height:30px;" src="src/tier/6.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/18xxx/18265.cpp) |
 | 18330 | Petrol | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/18xxx/18330.py) |
+| 18870 | 좌표 압축 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/18xxx/18870.py) |
 | 19602 | Dog Treats | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/19xxx/19602.py) |
 | 20104 | Timecard | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/20xxx/20104.cpp) |
 | 20157 | 화살을 쏘자! | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/20xxx/20157.cpp) |
