@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1654** | solved: **1073** | class: **4**
+rate: **1654** | solved: **1074** | class: **4**
 
-저장된 문제 수: **166**
+저장된 문제 수: **167**
 
-업데이트: 25.09.11. 20:50:32 (KST)
+업데이트: 25.09.12. 18:05:02 (KST)
 
 </div>
 <div align="center">
@@ -124,6 +124,7 @@ rate: **1654** | solved: **1073** | class: **4**
 | 14468 | 소가 길을 건너간 이유 2 | <img style="height:30px;" src="src/tier/7.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/14xxx/14468.py) |
 | 14626 | ISBN | <img style="height:30px;" src="src/tier/5.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/14xxx/14626.py) |
 | 14889 | 스타트와 링크 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/14xxx/14889.py) |
+| 14940 | 쉬운 최단거리 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/14xxx/14940.py) |
 | 15235 | Olympiad Pizza | <img style="height:30px;" src="src/tier/6.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/15xxx/15235.py) |
 | 15722 | 빙글빙글 스네일 | <img style="height:30px;" src="src/tier/5.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/15xxx/15722.py) |
 | 15966 | 군계일학 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/15xxx/15966.cpp) |
