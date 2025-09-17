@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1654** | solved: **1078** | class: **4**
+rate: **1654** | solved: **1079** | class: **4**
 
-저장된 문제 수: **168**
+저장된 문제 수: **169**
 
-업데이트: 25.09.16. 22:20:51 (KST)
+업데이트: 25.09.17. 20:33:08 (KST)
 
 </div>
 <div align="center">
@@ -132,6 +132,7 @@ rate: **1654** | solved: **1078** | class: **4**
 | 16017 | Telemarketer or not? | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/16xxx/16017.py) |
 | 17009 | Winning Score | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/17xxx/17009.py) |
 | 17040 | The Great Revegetation (Bronze) | <img style="height:30px;" src="src/tier/8.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/17xxx/17040.cpp) |
+| 18111 | 마인크래프트 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/18xxx/18111.py) |
 | 18127 | 모형결정 | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/18xxx/18127.cpp) |
 | 18265 | MooBuzz | <img style="height:30px;" src="src/tier/6.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/18xxx/18265.cpp) |
 | 18330 | Petrol | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/18xxx/18330.py) |
