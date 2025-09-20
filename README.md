@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1654** | solved: **1079** | class: **4**
+rate: **1654** | solved: **1082** | class: **4**
 
-저장된 문제 수: **169**
+저장된 문제 수: **172**
 
-업데이트: 25.09.17. 20:33:08 (KST)
+업데이트: 25.09.20. 23:14:44 (KST)
 
 </div>
 <div align="center">
@@ -77,6 +77,7 @@ rate: **1654** | solved: **1079** | class: **4**
 | 4948 | 베르트랑 공준 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/04xxx/4948.py) |
 | 4963 | 섬의 개수 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/04xxx/4963.py) |
 | 5063 | TGN | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/05xxx/5063.py) |
+| 5525 | IOIOI | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/05xxx/5525.py) |
 | 5622 | 다이얼 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/05xxx/5622.cpp) |
 | 5928 | Contest Timing | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/05xxx/5928.py) |
 | 6031 | Feeding Time | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/06xxx/6031.py) |
@@ -110,6 +111,7 @@ rate: **1654** | solved: **1079** | class: **4**
 | 11279 | 최대 힙 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/11xxx/11279.py) |
 | 11286 | 절댓값 힙 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/11xxx/11286.cpp) |
 | 11295 | Exercising | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/11xxx/11295.cpp) |
+| 11403 | 경로 찾기 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/11xxx/11403.py) |
 | 11575 | Affine Cipher | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/11xxx/11575.py) |
 | 11640 | Scaling Recipes | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/java.svg">](./problems/11xxx/11640.java) |
 | 12015 | 가장 긴 증가하는 부분 수열 2 | <img style="height:30px;" src="src/tier/14.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/12xxx/12015.cpp) |
@@ -146,6 +148,7 @@ rate: **1654** | solved: **1079** | class: **4**
 | 21631 | Checkers | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/21xxx/21631.cpp) |
 | 21633 | Bank Transfer | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/21xxx/21633.py) |
 | 21638 | SMS from MCHS | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/21xxx/21638.cpp) |
+| 21736 | 헌내기는 친구가 필요해 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/21xxx/21736.py) |
 | 21875 | Innohorse | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/21xxx/21875.cpp) |
 | 22015 | 金平糖 (Konpeito) | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/22xxx/22015.py) |
 | 23234 | The World Responds | <img style="height:30px;" src="src/tier/1.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/23xxx/23234.py) |
