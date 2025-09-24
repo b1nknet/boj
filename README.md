@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1655** | solved: **1085** | class: **4**
+rate: **1656** | solved: **1086** | class: **4**
 
-저장된 문제 수: **174**
+저장된 문제 수: **175**
 
-업데이트: 25.09.23. 22:55:42 (KST)
+업데이트: 25.09.24. 20:29:45 (KST)
 
 </div>
 <div align="center">
@@ -60,6 +60,7 @@ rate: **1655** | solved: **1085** | class: **4**
 | 1547 | 공 | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1547.cpp) |
 | 1806 | 부분합 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1806.cpp) |
 | 1876 | 튕기는 볼링공 | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1876.cpp) |
+| 1967 | 트리의 지름 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1967.py) |
 | 1991 | 트리 순회 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1991.py) |
 | 2022 | 사다리 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/02xxx/2022.py) |
 | 2042 | 구간 합 구하기 | <img style="height:30px;" src="src/tier/15.svg"> | [<img style="height:30px;" src="src/lang/java.svg">](./problems/02xxx/2042.java) |
