@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1658** | solved: **1087** | class: **4**
+rate: **1659** | solved: **1089** | class: **4**
 
-저장된 문제 수: **176**
+저장된 문제 수: **177**
 
-업데이트: 25.09.25. 19:38:45 (KST)
+업데이트: 25.09.27. 23:01:43 (KST)
 
 </div>
 <div align="center">
@@ -133,6 +133,7 @@ rate: **1658** | solved: **1087** | class: **4**
 | 14889 | 스타트와 링크 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/14xxx/14889.py) |
 | 14940 | 쉬운 최단거리 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/14xxx/14940.py) |
 | 15235 | Olympiad Pizza | <img style="height:30px;" src="src/tier/6.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/15xxx/15235.py) |
+| 15652 | N과 M (4) | <img style="height:30px;" src="src/tier/8.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/15xxx/15652.py) |
 | 15722 | 빙글빙글 스네일 | <img style="height:30px;" src="src/tier/5.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/15xxx/15722.py) |
 | 15966 | 군계일학 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/15xxx/15966.cpp) |
 | 16017 | Telemarketer or not? | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/16xxx/16017.py) |
