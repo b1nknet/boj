@@ -13,9 +13,9 @@
 
 rate: **1659** | solved: **1090** | class: **4**
 
-저장된 문제 수: **178**
+저장된 문제 수: **180**
 
-업데이트: 25.09.28. 22:14:25 (KST)
+업데이트: 25.09.28. 22:24:25 (KST)
 
 </div>
 <div align="center">
@@ -98,6 +98,7 @@ rate: **1659** | solved: **1090** | class: **4**
 | 9465 | 스티커 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/09xxx/9465.py) |
 | 9493 | 길면 기차, 기차는 빨라, 빠른 것은 비행기 | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/09xxx/9493.py) |
 | 9517 | VOLIM | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/09xxx/9517.cpp) |
+| 9663 | N-Queen | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/09xxx/9663.py) |
 | 9912 | Lexical | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/09xxx/9912.py) |
 | 10026 | 적록색약 | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/10xxx/10026.py) |
 | 10159 | 저울 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/10xxx/10159.cpp) |
@@ -138,6 +139,7 @@ rate: **1659** | solved: **1090** | class: **4**
 | 15722 | 빙글빙글 스네일 | <img style="height:30px;" src="src/tier/5.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/15xxx/15722.py) |
 | 15966 | 군계일학 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/15xxx/15966.cpp) |
 | 16017 | Telemarketer or not? | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/16xxx/16017.py) |
+| 16928 | 뱀과 사다리 게임 | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/16xxx/16928.py) |
 | 17009 | Winning Score | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/17xxx/17009.py) |
 | 17040 | The Great Revegetation (Bronze) | <img style="height:30px;" src="src/tier/8.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/17xxx/17040.cpp) |
 | 18111 | 마인크래프트 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/18xxx/18111.py) |
