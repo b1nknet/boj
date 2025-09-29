@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1659** | solved: **1090** | class: **4**
+rate: **1659** | solved: **1091** | class: **4**
 
-저장된 문제 수: **180**
+저장된 문제 수: **181**
 
-업데이트: 25.09.28. 22:24:25 (KST)
+업데이트: 25.09.29. 22:07:36 (KST)
 
 </div>
 <div align="center">
@@ -140,6 +140,7 @@ rate: **1659** | solved: **1090** | class: **4**
 | 15966 | 군계일학 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/15xxx/15966.cpp) |
 | 16017 | Telemarketer or not? | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/16xxx/16017.py) |
 | 16928 | 뱀과 사다리 게임 | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/16xxx/16928.py) |
+| 16953 | A → B | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/16xxx/16953.py) |
 | 17009 | Winning Score | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/17xxx/17009.py) |
 | 17040 | The Great Revegetation (Bronze) | <img style="height:30px;" src="src/tier/8.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/17xxx/17040.cpp) |
 | 18111 | 마인크래프트 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/18xxx/18111.py) |
