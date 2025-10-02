@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1659** | solved: **1091** | class: **4**
+rate: **1660** | solved: **1094** | class: **4**
 
-저장된 문제 수: **181**
+저장된 문제 수: **184**
 
-업데이트: 25.09.29. 22:07:36 (KST)
+업데이트: 25.10.02. 18:54:24 (KST)
 
 </div>
 <div align="center">
@@ -44,6 +44,7 @@ rate: **1659** | solved: **1091** | class: **4**
 | 1076 | 저항 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1076.py) |
 | 1100 | 하얀 칸 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1100.py) |
 | 1124 | 언더프라임 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1124.py) |
+| 1138 | 한 줄로 서기 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1138.py) |
 | 1141 | 접두사 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1141.cpp) |
 | 1159 | 농구 경기 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1159.py) |
 | 1173 | 운동 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1173.py) |
@@ -56,6 +57,7 @@ rate: **1659** | solved: **1091** | class: **4**
 | 1309 | 동물원 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1309.py) |
 | 1325 | 효율적인 해킹 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1325.cpp) |
 | 1389 | 케빈 베이컨의 6단계 법칙 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1389.cpp) |
+| 1406 | 에디터 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1406.py) |
 | 1515 | 수 이어 쓰기 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1515.cpp) |
 | 1547 | 공 | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1547.cpp) |
 | 1806 | 부분합 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1806.cpp) |
@@ -143,6 +145,7 @@ rate: **1659** | solved: **1091** | class: **4**
 | 16953 | A → B | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/16xxx/16953.py) |
 | 17009 | Winning Score | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/17xxx/17009.py) |
 | 17040 | The Great Revegetation (Bronze) | <img style="height:30px;" src="src/tier/8.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/17xxx/17040.cpp) |
+| 17070 | 파이프 옮기기 1 | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/17xxx/17070.py) |
 | 18111 | 마인크래프트 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/18xxx/18111.py) |
 | 18127 | 모형결정 | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/18xxx/18127.cpp) |
 | 18265 | MooBuzz | <img style="height:30px;" src="src/tier/6.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/18xxx/18265.cpp) |
