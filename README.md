@@ -13,9 +13,9 @@
 
 rate: **1660** | solved: **1094** | class: **4**
 
-저장된 문제 수: **184**
+저장된 문제 수: **185**
 
-업데이트: 25.10.02. 18:54:24 (KST)
+업데이트: 25.10.02. 18:57:02 (KST)
 
 </div>
 <div align="center">
@@ -65,6 +65,7 @@ rate: **1660** | solved: **1094** | class: **4**
 | 1876 | 튕기는 볼링공 | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1876.cpp) |
 | 1967 | 트리의 지름 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1967.py) |
 | 1991 | 트리 순회 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1991.py) |
+| 2010 | 플러그 | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/02xxx/2010.py) |
 | 2022 | 사다리 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/02xxx/2022.py) |
 | 2042 | 구간 합 구하기 | <img style="height:30px;" src="src/tier/15.svg"> | [<img style="height:30px;" src="src/lang/java.svg">](./problems/02xxx/2042.java) |
 | 2437 | 저울 | <img style="height:30px;" src="src/tier/14.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/02xxx/2437.py) |
