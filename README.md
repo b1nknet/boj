@@ -13,9 +13,9 @@
 
 rate: **1660** | solved: **1094** | class: **4**
 
-저장된 문제 수: **185**
+저장된 문제 수: **198**
 
-업데이트: 25.10.02. 18:57:02 (KST)
+업데이트: 25.10.02. 19:05:17 (KST)
 
 </div>
 <div align="center">
@@ -35,12 +35,25 @@ rate: **1660** | solved: **1094** | class: **4**
 | 1011 | Fly me to the Alpha Centauri | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1011.py) |
 | 1012 | 유기농 배추 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1012.py) |
 | 1013 | Contact | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1013.cpp) |
+| 1015 | 수열 정렬 | <img style="height:30px;" src="src/tier/7.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1015.py) |
 | 1016 | 제곱 ㄴㄴ 수 | <img style="height:30px;" src="src/tier/15.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1016.cpp) |
 | 1018 | 체스판 다시 칠하기 | <img style="height:30px;" src="src/tier/8.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1018.py) |
 | 1021 | 회전하는 큐 | <img style="height:30px;" src="src/tier/8.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1021.py) |
 | 1022 | 소용돌이 예쁘게 출력하기 | <img style="height:30px;" src="src/tier/13.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1022.cpp) |
 | 1025 | 제곱수 찾기 | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1025.cpp) |
 | 1026 | 보물 | <img style="height:30px;" src="src/tier/7.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/01xxx/1026.cpp) |
+| 1027 | 고층 건물 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1027.py) |
+| 1029 | 그림 교환 | <img style="height:30px;" src="src/tier/15.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1029.py) |
+| 1032 | 명령 프롬프트 | <img style="height:30px;" src="src/tier/5.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1032.py) |
+| 1034 | 램프 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1034.py) |
+| 1036 | 36진수 | <img style="height:30px;" src="src/tier/14.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1036.py) |
+| 1037 | 약수 | <img style="height:30px;" src="src/tier/5.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1037.py) |
+| 1038 | 감소하는 수 | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1038.py) |
+| 1052 | 물병 | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1052.py) |
+| 1059 | 좋은 구간 | <img style="height:30px;" src="src/tier/7.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1059.py) |
+| 1069 | 집으로 | <img style="height:30px;" src="src/tier/13.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1069.py) |
+| 1074 | Z | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1074.py) |
+| 1075 | 나누기 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1075.py) |
 | 1076 | 저항 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1076.py) |
 | 1100 | 하얀 칸 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1100.py) |
 | 1124 | 언더프라임 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/01xxx/1124.py) |
