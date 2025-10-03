@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1660** | solved: **1094** | class: **4**
+rate: **1661** | solved: **1100** | class: **4**
 
-저장된 문제 수: **198**
+저장된 문제 수: **203**
 
-업데이트: 25.10.02. 19:05:17 (KST)
+업데이트: 25.10.03. 22:49:41 (KST)
 
 </div>
 <div align="center">
@@ -82,6 +82,7 @@ rate: **1660** | solved: **1094** | class: **4**
 | 2022 | 사다리 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/02xxx/2022.py) |
 | 2042 | 구간 합 구하기 | <img style="height:30px;" src="src/tier/15.svg"> | [<img style="height:30px;" src="src/lang/java.svg">](./problems/02xxx/2042.java) |
 | 2437 | 저울 | <img style="height:30px;" src="src/tier/14.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/02xxx/2437.py) |
+| 2448 | 별 찍기 - 11 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/02xxx/2448.py) |
 | 2467 | 용액 | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/02xxx/2467.cpp) |
 | 2468 | 안전 영역 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/02xxx/2468.py) |
 | 2587 | 대표값2 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/02xxx/2587.py) |
@@ -95,6 +96,7 @@ rate: **1660** | solved: **1094** | class: **4**
 | 4948 | 베르트랑 공준 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/04xxx/4948.py) |
 | 4963 | 섬의 개수 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/04xxx/4963.py) |
 | 5063 | TGN | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/05xxx/5063.py) |
+| 5489 | Numbers | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/05xxx/5489.py) |
 | 5525 | IOIOI | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/05xxx/5525.py) |
 | 5622 | 다이얼 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/05xxx/5622.cpp) |
 | 5928 | Contest Timing | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/05xxx/5928.py) |
@@ -105,6 +107,7 @@ rate: **1660** | solved: **1094** | class: **4**
 | 6549 | 히스토그램에서 가장 큰 직사각형 | <img style="height:30px;" src="src/tier/16.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/06xxx/6549.cpp) |
 | 6768 | Don’t pass me the ball! | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/06xxx/6768.py) |
 | 6784 | Multiple Choice | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/06xxx/6784.py) |
+| 6973 | Dynamic Dictionary Coding | <img style="height:30px;" src="src/tier/7.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/06xxx/6973.py) |
 | 7287 | 등록 | <img style="height:30px;" src="src/tier/1.svg"> | [<img style="height:30px;" src="src/lang/c.svg">](./problems/07xxx/7287.c) |
 | 7360 | Undercut | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/07xxx/7360.cpp) |
 | 7562 | 나이트의 이동 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/07xxx/7562.py) |
@@ -128,6 +131,7 @@ rate: **1660** | solved: **1094** | class: **4**
 | 11000 | 강의실 배정 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/11xxx/11000.py) |
 | 11011 | Forged Answers | <img style="height:30px;" src="src/tier/16.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/11xxx/11011.cpp) |
 | 11116 | 교통량 | <img style="height:30px;" src="src/tier/6.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/11xxx/11116.cpp) |
+| 11203 | Numbers On a Tree | <img style="height:30px;" src="src/tier/6.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/11xxx/11203.py) |
 | 11279 | 최대 힙 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/11xxx/11279.py) |
 | 11286 | 절댓값 힙 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/11xxx/11286.cpp) |
 | 11295 | Exercising | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/11xxx/11295.cpp) |
@@ -138,6 +142,7 @@ rate: **1660** | solved: **1094** | class: **4**
 | 12209 | Super 2048 (Large) | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/12xxx/12209.cpp) |
 | 12268 | Meet and party (Small) | <img style="height:30px;" src="src/tier/7.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/12xxx/12268.cpp) |
 | 12790 | Mini Fantasy War | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/12xxx/12790.py) |
+| 13243 | Non-decreasing subsegment | <img style="height:30px;" src="src/tier/7.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/13xxx/13243.py) |
 | 13399 | Rearranging a Sequence | <img style="height:30px;" src="src/tier/6.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/13xxx/13399.cpp) |
 | 13419 | 탕수육 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/13xxx/13419.py) |
 | 13549 | 숨바꼭질 3 | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/13xxx/13549.py) |
