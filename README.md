@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1661** | solved: **1100** | class: **4**
+rate: **1662** | solved: **1101** | class: **4**
 
-저장된 문제 수: **203**
+저장된 문제 수: **204**
 
-업데이트: 25.10.03. 22:49:41 (KST)
+업데이트: 25.10.04. 20:45:05 (KST)
 
 </div>
 <div align="center">
@@ -99,6 +99,7 @@ rate: **1661** | solved: **1100** | class: **4**
 | 5489 | Numbers | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/05xxx/5489.py) |
 | 5525 | IOIOI | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/05xxx/5525.py) |
 | 5622 | 다이얼 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/05xxx/5622.cpp) |
+| 5639 | 이진 검색 트리 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/05xxx/5639.py) |
 | 5928 | Contest Timing | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/05xxx/5928.py) |
 | 6031 | Feeding Time | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/06xxx/6031.py) |
 | 6103 | Sand Castle | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/06xxx/6103.cpp) |
