@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1662** | solved: **1101** | class: **4**
+rate: **1663** | solved: **1102** | class: **4**
 
-저장된 문제 수: **204**
+저장된 문제 수: **205**
 
-업데이트: 25.10.04. 20:45:05 (KST)
+업데이트: 25.10.06. 18:33:41 (KST)
 
 </div>
 <div align="center">
@@ -120,6 +120,7 @@ rate: **1662** | solved: **1101** | class: **4**
 | 9517 | VOLIM | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/09xxx/9517.cpp) |
 | 9663 | N-Queen | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/09xxx/9663.py) |
 | 9912 | Lexical | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/09xxx/9912.py) |
+| 9935 | 문자열 폭발 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/09xxx/9935.py) |
 | 10026 | 적록색약 | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/10xxx/10026.py) |
 | 10159 | 저울 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/10xxx/10159.cpp) |
 | 10448 | 유레카 이론 | <img style="height:30px;" src="src/tier/5.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/10xxx/10448.py) |
