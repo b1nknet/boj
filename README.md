@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1663** | solved: **1102** | class: **4**
+rate: **1665** | solved: **1104** | class: **4**
 
-저장된 문제 수: **206**
+저장된 문제 수: **207**
 
-업데이트: 25.10.07. 19:52:58 (KST)
+업데이트: 25.10.08. 22:04:37 (KST)
 
 </div>
 <div align="center">
@@ -130,6 +130,7 @@ rate: **1663** | solved: **1102** | class: **4**
 | 10799 | 쇠막대기 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/10xxx/10799.py) |
 | 10811 | 바구니 뒤집기 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/10xxx/10811.cpp) |
 | 10813 | 공 바꾸기 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/10xxx/10813.cpp) |
+| 10830 | 행렬 제곱 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/10xxx/10830.py) |
 | 10833 | 사과 | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/10xxx/10833.py) |
 | 11000 | 강의실 배정 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/11xxx/11000.py) |
 | 11011 | Forged Answers | <img style="height:30px;" src="src/tier/16.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/11xxx/11011.cpp) |
