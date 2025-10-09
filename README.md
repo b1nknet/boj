@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1665** | solved: **1104** | class: **4**
+rate: **1666** | solved: **1105** | class: **4**
 
-저장된 문제 수: **207**
+저장된 문제 수: **208**
 
-업데이트: 25.10.08. 22:04:37 (KST)
+업데이트: 25.10.09. 18:44:04 (KST)
 
 </div>
 <div align="center">
@@ -134,6 +134,7 @@ rate: **1665** | solved: **1104** | class: **4**
 | 10833 | 사과 | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/10xxx/10833.py) |
 | 11000 | 강의실 배정 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/11xxx/11000.py) |
 | 11011 | Forged Answers | <img style="height:30px;" src="src/tier/16.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/11xxx/11011.cpp) |
+| 11054 | 가장 긴 바이토닉 부분 수열 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/11xxx/11054.py) |
 | 11116 | 교통량 | <img style="height:30px;" src="src/tier/6.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/11xxx/11116.cpp) |
 | 11203 | Numbers On a Tree | <img style="height:30px;" src="src/tier/6.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/11xxx/11203.py) |
 | 11279 | 최대 힙 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/11xxx/11279.py) |
