@@ -13,9 +13,9 @@
 
 rate: **1666** | solved: **1105** | class: **4**
 
-저장된 문제 수: **208**
+저장된 문제 수: **209**
 
-업데이트: 25.10.09. 18:44:04 (KST)
+업데이트: 25.10.10. 17:58:14 (KST)
 
 </div>
 <div align="center">
@@ -147,6 +147,7 @@ rate: **1666** | solved: **1105** | class: **4**
 | 12209 | Super 2048 (Large) | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/12xxx/12209.cpp) |
 | 12268 | Meet and party (Small) | <img style="height:30px;" src="src/tier/7.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/12xxx/12268.cpp) |
 | 12790 | Mini Fantasy War | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/12xxx/12790.py) |
+| 12851 | 숨바꼭질 2 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/12xxx/12851.py) |
 | 13243 | Non-decreasing subsegment | <img style="height:30px;" src="src/tier/7.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/13xxx/13243.py) |
 | 13399 | Rearranging a Sequence | <img style="height:30px;" src="src/tier/6.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/13xxx/13399.cpp) |
 | 13419 | 탕수육 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/13xxx/13419.py) |
