@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1666** | solved: **1105** | class: **4**
+rate: **1671** | solved: **1109** | class: **4**
 
-저장된 문제 수: **209**
+저장된 문제 수: **211**
 
-업데이트: 25.10.10. 17:58:14 (KST)
+업데이트: 25.10.13. 18:59:22 (KST)
 
 </div>
 <div align="center">
@@ -87,6 +87,7 @@ rate: **1666** | solved: **1105** | class: **4**
 | 2467 | 용액 | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/02xxx/2467.cpp) |
 | 2468 | 안전 영역 | <img style="height:30px;" src="src/tier/10.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/02xxx/2468.py) |
 | 2587 | 대표값2 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/02xxx/2587.py) |
+| 2638 | 치즈 | <img style="height:30px;" src="src/tier/13.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/02xxx/2638.py) |
 | 2805 | 나무 자르기 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/02xxx/2805.py) |
 | 2897 | CUDOVISTE | <img style="height:30px;" src="src/tier/5.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/02xxx/2897.cpp) |
 | 3003 | BIJELE | <img style="height:30px;" src="src/tier/1.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/03xxx/3003.py) |
@@ -148,6 +149,7 @@ rate: **1666** | solved: **1105** | class: **4**
 | 12268 | Meet and party (Small) | <img style="height:30px;" src="src/tier/7.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/12xxx/12268.cpp) |
 | 12790 | Mini Fantasy War | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/12xxx/12790.py) |
 | 12851 | 숨바꼭질 2 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/12xxx/12851.py) |
+| 13172 | Σ | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/13xxx/13172.py) |
 | 13243 | Non-decreasing subsegment | <img style="height:30px;" src="src/tier/7.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/13xxx/13243.py) |
 | 13399 | Rearranging a Sequence | <img style="height:30px;" src="src/tier/6.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/13xxx/13399.cpp) |
 | 13419 | 탕수육 | <img style="height:30px;" src="src/tier/4.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/13xxx/13419.py) |
@@ -173,7 +175,7 @@ rate: **1666** | solved: **1105** | class: **4**
 | 17070 | 파이프 옮기기 1 | <img style="height:30px;" src="src/tier/11.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/17xxx/17070.py) |
 | 18111 | 마인크래프트 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/18xxx/18111.py) |
 | 18127 | 모형결정 | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/18xxx/18127.cpp) |
-| 18265 | MooBuzz | <img style="height:30px;" src="src/tier/6.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/18xxx/18265.cpp) |
+| 18265 | MooBuzz | <img style="height:30px;" src="src/tier/7.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/18xxx/18265.cpp) |
 | 18330 | Petrol | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/18xxx/18330.py) |
 | 18870 | 좌표 압축 | <img style="height:30px;" src="src/tier/9.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/18xxx/18870.py) |
 | 19602 | Dog Treats | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/19xxx/19602.py) |
