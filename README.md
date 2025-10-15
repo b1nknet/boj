@@ -11,11 +11,11 @@
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
-rate: **1671** | solved: **1109** | class: **4**
+rate: **1672** | solved: **1110** | class: **4**
 
-저장된 문제 수: **211**
+저장된 문제 수: **212**
 
-업데이트: 25.10.13. 18:59:22 (KST)
+업데이트: 25.10.15. 22:22:02 (KST)
 
 </div>
 <div align="center">
@@ -212,6 +212,7 @@ rate: **1671** | solved: **1109** | class: **4**
 | 29986 | Altura Mínima | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/29xxx/29986.cpp) |
 | 30018 | 타슈 | <img style="height:30px;" src="src/tier/3.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/30xxx/30018.py) |
 | 30319 | Advance to Taoyuan Regional | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/30xxx/30319.py) |
+| 30805 | 사전 순 최대 공통 부분 수열 | <img style="height:30px;" src="src/tier/12.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/30xxx/30805.py) |
 | 31048 | Last Factorial Digit | <img style="height:30px;" src="src/tier/2.svg"> | [<img style="height:30px;" src="src/lang/py.svg">](./problems/31xxx/31048.py) |
 | 31499 | 프랙탈 수열 | <img style="height:30px;" src="src/tier/8.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/31xxx/31499.cpp) |
 | 31925 | APC2shake! | <img style="height:30px;" src="src/tier/6.svg"> | [<img style="height:30px;" src="src/lang/cpp.svg">](./problems/31xxx/31925.cpp) |
